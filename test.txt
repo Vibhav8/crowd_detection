@@ -1,0 +1,27595 @@
+TESLA DIAGNOSTICS
+4-109,Sri Venkateswara Swamy Temple Lane , Chandanagar,Hyd , - 500050, Email Id: tesla.cdnr@gmail.com
+Phone No : 9000799249,42036799,040-23031720
+
+TEST MENU
+CARDIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1
+
+CR001
+
+2D ECHO
+
+---Select---()
+
+IH
+
+1100.00
+
+2
+
+CR002
+
+2D ECHO Color Doppler(PA
+EDIATRIC)
+
+.()
+
+IH
+
+1200.00
+
+3
+
+CR003
+
+Fetal Echo
+
+---Select---()
+
+IH
+
+1200.00
+
+4
+
+CR004
+
+Fetal Echocardiography
+
+---Select---()
+
+IH
+
+1200.00
+
+5
+
+CR005
+
+TMT (Treadmill Test (Stress
+Test)
+
+.()
+
+IH
+
+1000.00
+
+6
+
+CR006
+
+ECG (Electro Cardio Gram)
+
+.()
+
+IH
+
+200.00
+
+Page 1 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+7
+
+24HTGL
+
+Triglycerides(Chyle) - 24
+Urine
+
+GPO-PAP
+
+24 Hrs. Urine()
+
+8
+
+ACR
+
+Albumin Creatinine Ratio Spot Urine
+
+Spectrophotometry/Calculati
+on
+
+Urine(20ml)
+
+9
+
+ALBUMIN
+
+Albumin-Serum
+
+Spectrophotometry
+
+10
+
+ALP
+
+ALP (Alkaline Phosphatase
+)
+
+11
+
+ALT
+
+12
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+IH
+
+DAILY
+
+8 HRS
+
+300.00
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+ALT/SGPT
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+AMY
+
+Amylase - Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+13
+
+AMY-F
+
+Amylase - Fluids
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+14
+
+AMY-U
+
+Amylase - Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+15
+
+APTT
+
+APTT (PTTK)
+
+Clotting
+
+Citrate Plasma(2m
+l)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+16
+
+AST
+
+AST/SGOT
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+17
+
+BC094
+
+Protein - Any Other Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+18
+
+BC103
+
+Protein - Total Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+180.00
+
+19
+
+BUN
+
+Urea Nitrogen (BUN)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+170.00
+
+20
+
+BUN/CRE
+
+BUN / Creatinine Ratio
+
+Spectrophotometry/Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+21
+
+CAL
+
+Calcium - Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+22
+
+CAL-12hrs
+
+Calcium 12hrs Urine
+
+23
+
+CAL-24hrs
+
+Calcium 24hrs Urine
+
+Spectrophotometry/Calculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+24
+
+CAL-U
+
+Calcium - Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+25
+
+CAL/CREU
+
+Calcium / Creatinine RatioSpot Urine
+
+Spectrophotometry /
+Calculation
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+26
+
+CCT
+
+Creatinine Clearance Test(
+CCT)
+
+Spectrophotometry/Calculati
+on
+
+24 Hrs. Urine(2ml
+& 20ml (24 hrs
+Urine Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+Page 2 of 86
+
+Temp
+
+12 hrs Urine()
+
+IH
+
+MRP
+
+300.00
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+27
+
+CHDL
+
+Cholesterol - HDL
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+28
+
+CHL
+
+Chloride - Serum
+
+ISE Direct
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+29
+
+CHL-24hrs
+
+Chloride -24hrs Urine
+
+ISE Direct/Calculation
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+30
+
+CHL-F
+
+Chloride - Any Fluid
+
+ISE Direct
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+31
+
+CHL-U
+
+Chloride -Spot Urine
+
+ISE Direct
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+32
+
+CHOL-F
+
+Cholesterol - Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+33
+
+CPK
+
+CPK (Creatine Phospho
+Kinase)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+34
+
+CRE
+
+Creatinine serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+170.00
+
+35
+
+CRE-24hrs
+
+Creatinine 24hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+36
+
+CRE-F
+
+Creatinine Any Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+37
+
+CRE-U
+
+Creatinine Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+38
+
+CSFALB
+
+Albumin-CSF.
+
+Spectrophotometry
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+39
+
+eGFR
+
+eGFR (Glomerular Filtration
+Rate)
+
+Spectrophotometry/Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+40
+
+ELECTRO
+
+Electrolytes-Serum
+
+ISE Direct
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+41
+
+ELECTRO24hrs
+
+Electrolytes -24hrs Urine
+
+ISE Direct/Calculation
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+42
+
+ELECTROU
+
+Electrolytes - Urine
+
+ISE Direct
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+550.00
+
+43
+
+FBS
+
+Glucose - Fasting(FBS)
+
+Hexokinase
+
+FLUORIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+44
+
+FLUIDALB
+
+Albumin-Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+45
+
+FUS
+
+Glucose - Fasting Urine(FU
+S)
+
+Reagent Strip
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+40.00
+
+Page 3 of 86
+
+MRP
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+46
+
+GCT
+
+Glucose Challenge Test (G
+CT)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+47
+
+GGT
+
+GGT (Gamma Glutamyl
+Transferase)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+48
+
+GLU-AF
+
+Glucose - Ascitic Fluid
+
+Hexokinase
+
+Ascitic Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+49
+
+GLU-CSF
+
+Glucose - CSF
+
+Hexokinase
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+50
+
+GLU-F
+
+Glucose -Any Other Fluid
+
+Hexokinase
+
+Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+51
+
+GLU-PCF
+
+Glucose - Pericardial Fluid
+
+Hexokinase
+
+Pericardial Fluid(2
+ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+52
+
+GLU-PLUF
+
+Glucose - Pleural Fluid
+
+Hexokinase
+
+Pleural Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+53
+
+GLU-PTF
+
+Glucose - Peritonial Fluid
+
+Hexokinase
+
+Peritoneal fluid(2m
+l)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+54
+
+GLU-SYN-F
+
+Glucose - Synovial Fluid
+
+Hexokinase
+
+Synovial Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+55
+
+GTT
+
+Glucose Tolerance Test (GT
+T)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+56
+
+GTT-4
+
+Glucose Tolerance Test (GT
+T) (4 Samples)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+daily
+
+Same Day
+
+450.00
+
+57
+
+HbA1c
+
+HbA1c/GHB
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+58
+
+I.CAL
+
+Ionised Calcium
+
+ISE
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+800.00
+
+59
+
+IRON
+
+Iron- Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+60
+
+IRON
+STUD
+
+Iron Studies (IRON,TIBC,UI
+BC&TSAT)
+
+Spectrophotometry/Calculati
+on
+
+Serum(4ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+800.00
+
+61
+
+IRON-TIBC
+
+Iron -TIBC- Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+62
+
+K+
+
+Potassium - Serum
+
+ISE
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+63
+
+K+24hrs
+
+Potassium 24hrs Urine
+
+ISE /Calculation
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+64
+
+K+U
+
+Potassium Spot Urine
+
+ISE
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+65
+
+LDH
+
+LDH (Lactate
+Dehyderogenase) - Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+Page 4 of 86
+
+MRP
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+66
+
+LDH-F
+
+LDH (Lactate
+Dehyderogenase) - Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+67
+
+LDL
+
+Cholesterol - LDL
+
+Spectrophotometry/Friedewal
+d Formula
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+68
+
+LFT
+
+Liver Function Test (LFT)
+
+Spectrophotometry /Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+550.00
+
+69
+
+LIP
+
+Lipase Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+70
+
+LIP-F
+
+Lipase Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+71
+
+LP
+
+Lipid Profile
+
+Spectrophotometry /Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+550.00
+
+72
+
+Mg
+
+Magnesium- Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+73
+
+Mg-24hrs
+
+Magnesium- 24hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+74
+
+Mg-F
+
+Magnesium- Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+75
+
+Mg-U
+
+Magnesium- Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+76
+
+Na+
+
+Sodium - Serum
+
+ISE Direct
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+77
+
+Na+24hrs
+
+Sodium - 24 hrs Urine
+
+ISE Direct /Calculation
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+78
+
+Na+CSF
+
+Sodium - CSF
+
+ISE Direct
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+79
+
+Na+F
+
+Sodium - Fluid
+
+ISE Direct
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+80
+
+Na+U
+
+Sodium- Spot Urine
+
+ISE Direct
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+81
+
+Nicot
+
+Nicotine (Cotinine)- Urine
+
+Immunochromatography
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+82
+
+PBBS
+
+Glucose - Post Breakfast(P
+BBS)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+83
+
+PCR-24hrs
+
+Protein/Creatinine Ratio 24
+hrs Urine
+
+Spectrophotometry/Calculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+84
+
+PCR-U
+
+Protein/Creatinine Ratio
+Spot Urine
+
+Spectrophotometry /Calculati
+on
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+Page 5 of 86
+
+MRP
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+85
+
+PDBS
+
+Glucose - Post Dinner (PD
+BS)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+86
+
+PLBS
+
+Glucose - Post Prandial(PL
+BS)
+
+Hexokinase
+
+FLUORIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+87
+
+PLUS
+
+Glucose - Post Urine(PLUS
+)
+
+Reagent Strip
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+40.00
+
+88
+
+PO4
+
+Phosphorus- Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+89
+
+PO4-12hrs
+
+Phosphorus-12 hrs Urine
+
+90
+
+PO4-24hrs
+
+Phosphorus-24 hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+91
+
+PO4-U
+
+Phosphorus- Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+92
+
+PREBS
+
+Glucose - Pre Dinner(PDBS
+)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+93
+
+PRELBS
+
+Glucose - Pre Lunch Blood
+Glucose
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+94
+
+PT(INR)
+
+PT & INR (Prothrombin
+Time (PT) with INR)
+
+Clotting
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+95
+
+RBS
+
+Glucose - Random (RBS)
+
+Hexokinase
+
+FLOURIDE
+PLASMA(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+96
+
+RUS
+
+Glucose - Random Urine(R
+US)
+
+Reagent Strip
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+40.00
+
+97
+
+SAAG
+
+SAAG (Serum Ascitic
+Albumin Gradient)
+
+Spectrophotometry /
+Calculation
+
+SERUM,ASCITIC
+FLUID(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+98
+
+T.BIL
+
+Bilirubin(Total Direct)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+99
+
+TCHOL
+
+Cholesterol - Total
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+100
+
+TGL
+
+Triglycerides(TGL)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+101
+
+TIBC
+
+Iron Binding Capacity-Total
+(TIBC)
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+102
+
+TP-12hrs
+
+Protein 12hrs Urine
+
+103
+
+TP-16hrs
+
+Protein 16 hrs Urine
+
+Page 6 of 86
+
+12 hrs Urine()
+
+IH
+
+12 hrs Urine()
+Spectrophotometry /Calculati
+on
+
+16 hrs URINE(20
+ml)
+
+500.00
+
+IH
+2-8°C
+
+IH
+
+350.00
+Daily
+
+Same Day
+
+350.00
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+104
+
+TP-24hrs
+
+Protein 24hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+24 Hrs. Urine(20m
+l)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+105
+
+TP-8hrs
+
+Protein 8 hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+8 hrs URINE(20ml
+)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+106
+
+TP-ALB
+
+Protein with (Albumin,
+Globulin, AG Ratio)
+
+Spectrophotometry /Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+107
+
+TP-ASCF
+
+Protein - Ascitic Fluid
+
+Spectrophotometry
+
+Ascitic Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+108
+
+TP-CSF
+
+Protein - CSF
+
+Spectrophotometry
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+109
+
+TP-PCF
+
+Protein -Pericardial Fluid
+
+Spectrophotometry
+
+Pericardial Fluid(2
+ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+110
+
+TP-PLUF
+
+Protein -Pleural Fluid
+
+Spectrophotometry
+
+Pleural Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+111
+
+TP-PTF
+
+Protein -Peritonial Fluid
+
+Spectrophotometry
+
+Peritoneal fluid(2m
+l)
+
+2-8°C
+
+IH
+
+Daily
+
+SAme Day
+
+250.00
+
+112
+
+TP-SYNF
+
+Protein - Synovial Fluid
+
+Spectrophotometry
+
+Synovial Fluid(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+113
+
+TP-U
+
+Protein - Spot Urine
+
+Spectrophotometry
+
+Urine(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+114
+
+TROP-I
+
+Troponin I (Qualitative)
+
+Immunochromatography
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1200.00
+
+115
+
+TROP-T
+
+Troponin T (Qualitative)
+
+Immunochromatography
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1200.00
+
+116
+
+TSAT
+
+Transferrin Saturation
+
+Spectrophotometry /Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+800.00
+
+117
+
+UA
+
+Uric Acid - Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+170.00
+
+118
+
+UA-12hrs
+
+Uric Acid- 12 hrs Urine
+
+IH
+
+Daily
+
+119
+
+UA-24hrs
+
+Uric Acid- 24 hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+24 Hrs. Urine(20m
+l (24hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+120
+
+UA-U
+
+Uric Acid - Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+same Day
+
+200.00
+
+121
+
+UMA
+
+Microalbuminuria- Urine (U
+MA)
+
+Immunoturbidometry/Calcula
+tion
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+122
+
+UMA-24hrs
+
+Microalbuminuria 24hrs
+urine
+
+Immunoturbidometry /Calcul
+ation
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+Page 7 of 86
+
+12 hrs Urine()
+
+MRP
+
+300.00
+
+CLINICAL BIOCHEMISTRY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+123
+
+UMA/CRE
+
+Microalbumin/Creatinine
+Ratio- Spot Urine
+
+Immunoturbidometry /Calcul
+ation
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+124
+
+UREA
+
+Urea - Serum
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+170.00
+
+125
+
+UREA-24hr
+s
+
+Urea - 24hrs Urine
+
+Spectrophotometry /Calculati
+on
+
+Serum(20ml (24hr
+s Urine Volume))
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+126
+
+UREA-F
+
+Urea - Fluid
+
+Spectrophotometry
+
+Fluid.(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+127
+
+UREA-U
+
+Urea - Spot Urine
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+128
+
+VLDL
+
+Cholesterol - VLDL
+
+Spectrophotometry/Calculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+Page 8 of 86
+
+MRP
+
+CLINICAL PATHOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+129
+
+ALB-U(STR
+IP)
+
+Albumin-Urine (Strip
+Method)
+
+Strip
+
+Urine(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+50.00
+
+130
+
+BJP
+
+BenceJones Proteins (BJP)
+
+Acid/Heat
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+131
+
+BS & BP
+
+Bile Salts & Bile Pigments Urine
+
+Hays / Fouchets
+
+Urine(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+132
+
+CP001
+
+Acetone (Ketones)- Urine
+
+Rotheras
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+70.00
+
+133
+
+CSE
+
+Stool Routine Examination
+
+Microscopy
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+120.00
+
+134
+
+CUE
+
+CUE(Complete Urine
+Examination)
+
+Multi Reagent Strip /
+Chemical / Microscopy
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+135
+
+CUE(G1)
+
+CUE(G1)
+
+Multi Reagent Strip /
+Chemical / Microscopy
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+136
+
+CUE(G2)
+
+CUE(G2)
+
+Multi Reagent Strip /
+Chemical / Microscopy
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+137
+
+CUE(G3)
+
+CUE(G3)
+
+Multi Reagent Strip /
+Chemical / Microscopy
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+138
+
+Fat-S
+
+Stool Fat Globules
+
+Microscopy
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+139
+
+Hb-U
+
+Urine - Hemoglobin - CP00
+13
+
+Strip/Rapid Hemospot
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+Same Day
+
+200.00
+
+140
+
+HCG(PREG)
+
+Urine Pregnancy (HCG)
+
+Immunochromatography
+
+Urine(10ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+141
+
+O.B-S
+
+Stool Occult Blood
+
+Hemospot
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+142
+
+Ova&Cyst
+
+Stool - Ova&Cyst
+
+Microscopy
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+143
+
+Ova&Cyst(c
+)
+
+Stool - Ova&Cyst (Conc.
+Method)
+
+Microscopy
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+144
+
+PH-S
+
+Stool PH
+
+Indicator Paper
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+50.00
+
+145
+
+PH-U
+
+PH - Urine
+
+Strip
+
+Urine(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+Page 9 of 86
+
+CLINICAL PATHOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+146
+
+Red.Sub-S
+
+Stool - Reducing
+Substances
+
+Benedicts
+
+Stool(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+120.00
+
+147
+
+Red.Sub-U
+
+Urine - Reducing
+Substance
+
+Benedicts
+
+Urine(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+148
+
+SEME-A
+
+Semen Analysis
+
+Microscopy
+
+Semen(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+149
+
+Urobil-U
+
+Urine - Urobilinogen
+
+Strip
+
+Urine(20ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+Same Day
+
+60.00
+
+Page 10 of 86
+
+MRP
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+150
+
+CT001
+
+CT Scan of 3DShoulder
+
+NA
+
+151
+
+CT002
+
+CT Scan of 3D Cervical
+Vertibrae C1-C5 Plain and
+Contrast
+
+152
+
+CT003
+
+CT Scan of Brain Plain (Axia
+l, Coronal, Saggital)
+
+153
+
+CT004
+
+CT Scan of Brain With
+Facial Bones
+
+154
+
+CT005
+
+155
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+---Select---()
+
+IH
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+3500.00
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+4000.00
+
+CT Scan of Brain With PNS
+Cuts
+
+---Select---()
+
+IH
+
+3500.00
+
+CT006
+
+CT Scan of Contrast (Doubl
+e Dose)
+
+---Select---()
+
+IH
+
+1500.00
+
+156
+
+CT007
+
+CT Scan of Contrast (Single
+Dose)
+
+---Select---()
+
+IH
+
+1000.00
+
+157
+
+CT008
+
+CT Scan of Extra Film
+
+.(NA)
+
+IH
+
+158
+
+CT009
+
+CT Scan of Face Cuts Only
+
+.()
+
+IH
+
+2000.00
+
+159
+
+CT010
+
+CT Scan of Fistulogram
+
+---Select---()
+
+IH
+
+4500.00
+
+160
+
+CT011
+
+CT Scan of IVP Plain KUB
+
+.()
+
+IH
+
+4800.00
+
+161
+
+CT012
+
+CT Scan of Mandible With 3
+D
+
+---Select---()
+
+IH
+
+3000.00
+
+162
+
+CT013
+
+CT Scan of Peripheral
+Angio
+
+---Select---()
+
+IH
+
+10000.00
+
+163
+
+CT014
+
+CT Scan of PNS
+
+---Select---()
+
+IH
+
+2000.00
+
+164
+
+CT015
+
+CT Scan of Pulmonary
+Angio
+
+---Select---()
+
+IH
+
+8500.00
+
+165
+
+CT016
+
+CT Scan Of Renal Angio
+
+---Select---()
+
+IH
+
+10000.00
+
+166
+
+CT017
+
+CT Scan of (CECT abd with
+Mesentric Angiography)
+
+---Select---(NA)
+
+IH
+
+167
+
+CT018
+
+CT Scan of 3D Knee joint
+
+.()
+
+IH
+
+168
+
+CT019
+
+CT Scan of Abdomen(Plain)
+
+---Select---(NA)
+
+IH
+
+Page 11 of 86
+
+NA
+
+NA
+
+NA
+
+Temp
+
+MRP
+4000.00
+5500.00
+
+Daily
+
+Daily
+
+Same Day
+
+Same Day
+
+300.00
+
+10000.00
+3500.00
+
+Daily
+
+Same Day
+
+4800.00
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+169
+
+CT020
+
+CT Scan of Abdomen(With
+Contrast)
+
+NA
+
+170
+
+CT021
+
+CT Scan Of Ankle Joint
+
+NA
+
+171
+
+CT022
+
+CT Scan of Ankle Joint 3D
+
+172
+
+CT023
+
+CT Scan Of Both Knee
+Joints
+
+173
+
+CT024
+
+CT Scan Of Brain(Plain)
+
+174
+
+CT025
+
+CT Scan of Brain With
+Contrast)
+
+175
+
+CT026
+
+CT Scan of Brain for Pitutary
+Fossa With Contrast
+
+176
+
+CT027
+
+177
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+6000.00
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+3000.00
+
+.()
+
+IH
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+5000.00
+
+Na
+
+.(NA)
+
+IH
+
+Daily
+
+Same Day
+
+2200.00
+
+.()
+
+IH
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+3500.00
+
+CT Scan of Brain with
+Facial Bone with 3D
+
+NA
+
+.(NA)
+
+IH
+
+Daily
+
+Same Day
+
+5500.00
+
+CT028
+
+CT Scan of CECT Urogram
+
+NA
+
+.(NA)
+
+IH
+
+Daily
+
+Same Day
+
+6000.00
+
+178
+
+CT029
+
+CT Scan of Chest 3D
+
+---Select---()
+
+IH
+
+4000.00
+
+179
+
+CT030
+
+CT Scan of Chest Plain and
+Contrast - CECT
+
+---Select---()
+
+IH
+
+4800.00
+
+180
+
+CT031
+
+CT Scan of Elbow 3D
+
+---Select---()
+
+IH
+
+3500.00
+
+181
+
+CT032
+
+CT Scan of Elbow Joint
+
+---Select---()
+
+IH
+
+3000.00
+
+182
+
+CT033
+
+CT Scan of Facial Bones 3
+D
+
+---Select---()
+
+IH
+
+4000.00
+
+183
+
+CT034
+
+CT Scan of Femur
+
+---Select---()
+
+IH
+
+3000.00
+
+184
+
+CT035
+
+CT Scan of RT
+Sternoclavicular
+
+.()
+
+IH
+
+3000.00
+
+185
+
+CT036
+
+CT Scan of Fore Arm
+
+---Select---()
+
+IH
+
+3000.00
+
+186
+
+CT037
+
+CT Scan of HRCT Chest
+
+---Select---()
+
+IH
+
+4000.00
+
+187
+
+CT038
+
+CT Scan of HRCT Temporal
+Bone
+
+---Select---()
+
+IH
+
+3000.00
+
+188
+
+CT039
+
+CT Scan of IVP Plain and
+Contrast
+
+---Select---()
+
+IH
+
+6000.00
+
+189
+
+CT040
+
+CT Scan of Leg
+
+.()
+
+IH
+
+3000.00
+
+Page 12 of 86
+
+Temp
+
+MRP
+
+4000.00
+
+3200.00
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+190
+
+CT041
+
+CT Scan of KUB Plain and
+Contrast
+
+---Select---()
+
+IH
+
+6000.00
+
+191
+
+CT042
+
+CT Scan of Lower Abdomen
+Fistulogram
+
+.()
+
+IH
+
+5000.00
+
+192
+
+CT043
+
+CT Scan of Mandible
+
+---Select---()
+
+IH
+
+2000.00
+
+193
+
+CT044
+
+CT Scan of Mandible with 3
+D Reconstruction
+
+---Select---()
+
+IH
+
+3000.00
+
+194
+
+CT045
+
+CT Scan of Mastoids
+
+---Select---()
+
+IH
+
+3000.00
+
+195
+
+CT046
+
+CT Scan of Neck Angio Intra and Extra Cannel
+Vassel
+
+---Select---()
+
+IH
+
+12000.00
+
+196
+
+CT047
+
+CT Scan of Cervical and
+Thorasic Spine
+
+---Select---(NA)
+
+IH
+
+197
+
+CT048
+
+CT Scan of Coronal and
+Saggital
+
+---Select---()
+
+IH
+
+3000.00
+
+198
+
+CT049
+
+CT Scan of Elbow
+
+---Select---()
+
+IH
+
+3000.00
+
+199
+
+CT050
+
+CT Scan of Fore Arm With
+Wrist
+
+---Select---()
+
+IH
+
+4000.00
+
+200
+
+CT051
+
+CT Scan of Hand
+
+---Select---()
+
+IH
+
+2500.00
+
+201
+
+CT052
+
+CT Scan of Hand With Wrist
+
+---Select---()
+
+IH
+
+3500.00
+
+202
+
+CT053
+
+CT Scan of 3D HIP
+
+---Select---(NA)
+
+IH
+
+203
+
+CT054
+
+CT Scan of Hip Joint
+
+---Select---()
+
+IH
+
+3000.00
+
+204
+
+CT055
+
+CT Scan of Lower Abdomen
+(with Contrast)
+
+.()
+
+IH
+
+6000.00
+
+205
+
+CT056
+
+CT Scan of HRCT Mastoids
+
+---Select---()
+
+IH
+
+3000.00
+
+206
+
+CT057
+
+CT Scan of Humerus
+
+.()
+
+IH
+
+3000.00
+
+207
+
+CT058
+
+CT Scan of KUB
+
+---Select---()
+
+IH
+
+4800.00
+
+208
+
+CT059
+
+CT Scan of Sternum
+
+.()
+
+IH
+
+3500.00
+
+209
+
+CT060
+
+CT Scan Of Leg with Ankle
+Joint
+
+---Select---()
+
+IH
+
+3000.00
+
+Page 13 of 86
+
+Methodology
+
+Na
+
+NA
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Daily
+
+Daily
+
+Turn around
+time
+
+Same Day
+
+Same Day
+
+MRP
+
+8000.00
+
+4000.00
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+210
+
+CT061
+
+CT Scan of Lower Jaw
+
+---Select---()
+
+IH
+
+2500.00
+
+211
+
+CT062
+
+CT Scan Of Lower
+Abdomen (Plain)
+
+.()
+
+IH
+
+4000.00
+
+212
+
+CT063
+
+CT Scan of Nasopharynx
+
+---Select---()
+
+IH
+
+3000.00
+
+213
+
+CT064
+
+CT Scan of Neck and Upper
+Chest
+
+---Select---()
+
+IH
+
+8300.00
+
+214
+
+CT065
+
+CT Scan of Orbits
+
+---Select---()
+
+IH
+
+2500.00
+
+215
+
+CT066
+
+CT Scan of Orbits (Axial ,
+Coronal Plain)
+
+---Select---()
+
+IH
+
+3500.00
+
+216
+
+CT067
+
+CT Scan of Orbits With
+Contrast
+
+---Select---()
+
+IH
+
+3800.00
+
+217
+
+CT068
+
+CT Scan of Orophnynex
+
+---Select---()
+
+IH
+
+2000.00
+
+218
+
+CT069
+
+CT Scan of Pelvis (With
+Contrast and Fistula)
+
+---Select---()
+
+IH
+
+5000.00
+
+219
+
+CT070
+
+CT Scan of PNS (Axial &
+Sagittal)
+
+---Select---()
+
+IH
+
+3000.00
+
+220
+
+CT071
+
+CT Scan of PNS (Axial,Coro
+nal, Sagittal)
+
+---Select---()
+
+IH
+
+3500.00
+
+221
+
+CT072
+
+CT Scan of PNS
+Nasopharynx
+
+---Select---()
+
+IH
+
+2500.00
+
+222
+
+CT073
+
+CT Scan of PNS
+Sagittalview
+
+---Select---()
+
+IH
+
+2000.00
+
+223
+
+CT074
+
+CT Scan of Sacrum Coccyx
+
+---Select---()
+
+IH
+
+4000.00
+
+224
+
+CT075
+
+CT Scan of Styloid Process
+
+---Select---()
+
+IH
+
+3000.00
+
+225
+
+CT076
+
+CT Scan of Temporal
+Bones
+
+---Select---()
+
+IH
+
+3000.00
+
+226
+
+CT077
+
+CT Scan of Temporalbones
+(Axial,Coronal, Saggital)
+
+---Select---()
+
+IH
+
+3500.00
+
+227
+
+CT078
+
+CT Scan of Thigh
+
+---Select---()
+
+IH
+
+3000.00
+
+228
+
+CT079
+
+CT Scan of Thorasic &
+Lumber Spine
+
+---Select---()
+
+IH
+
+9000.00
+
+229
+
+CT080
+
+CT Scan of Throat
+
+---Select---()
+
+IH
+
+4500.00
+
+Page 14 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+230
+
+CT081
+
+CT Scan Of TM Joints With
+Contrast
+
+---Select---()
+
+IH
+
+3000.00
+
+231
+
+CT082
+
+CT Scan of Upper Abdomen
+(Plain)
+
+---Select---()
+
+IH
+
+4800.00
+
+232
+
+CT083
+
+CT Scan of Whole Spine
+
+---Select---()
+
+IH
+
+12500.00
+
+233
+
+CT084
+
+CT Scan of Wrist Joint(Plain
+)
+
+---Select---()
+
+IH
+
+2500.00
+
+234
+
+CT085
+
+CT Scan of Urography With
+Contrast
+
+.()
+
+IH
+
+6000.00
+
+235
+
+CT086
+
+CT Scan of Wrist Joint 3D
+
+---Select---()
+
+IH
+
+3500.00
+
+236
+
+CT087
+
+CT Scan of Screening
+
+---Select---()
+
+IH
+
+2200.00
+
+237
+
+CT088
+
+CT scan of CD
+
+.()
+
+IH
+
+200.00
+
+238
+
+CT089
+
+CT Scan of Cervical Spine
+
+.()
+
+IH
+
+4500.00
+
+239
+
+CT090
+
+CT Scan of Chest(Plain)
+
+---Select---()
+
+IH
+
+3800.00
+
+240
+
+CT091
+
+CT Scan of Dorsal Spine
+
+.()
+
+IH
+
+4500.00
+
+241
+
+CT092
+
+CT Scan of Urography (Plai
+n)
+
+.()
+
+IH
+
+4800.00
+
+242
+
+CT093
+
+CT Scan of Knee Joint
+
+---Select---()
+
+IH
+
+2500.00
+
+243
+
+CT094
+
+CT Scan of Lumbar Spine
+
+---Select---()
+
+IH
+
+4500.00
+
+244
+
+CT095
+
+CT Scan of Neck plain
+
+---Select---()
+
+IH
+
+3500.00
+
+245
+
+CT096
+
+CT Scan of Neck (With
+Contrast)
+
+---Select---()
+
+IH
+
+4500.00
+
+246
+
+CT097
+
+CT Scan of Oral Contrast
+Charges
+
+---Select---()
+
+IH
+
+500.00
+
+247
+
+CT098
+
+CT Scanof PNS Axial (Plain)
+
+.()
+
+IH
+
+2000.00
+
+248
+
+CT099
+
+CT Scan of PNS Coronal &
+Axial (Plain)
+
+.()
+
+IH
+
+3000.00
+
+249
+
+CT100
+
+CT Scan PNS Coronal &
+Sagittal (Plain)
+
+---Select---()
+
+IH
+
+3000.00
+
+Page 15 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+CT SCAN
+SNo
+
+Test
+Code
+
+Name Of Test
+
+250
+
+ct100
+
+CT Scan with Upper Limb
+Angio
+
+251
+
+CT101
+
+CT Scan of PNS Coronal (
+Plain)
+
+252
+
+CT102
+
+253
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+---Select---()
+
+IH
+
+---Select---(NA)
+
+IH
+
+CT Scan of Pelvis (Plain)
+
+.()
+
+IH
+
+3500.00
+
+CT103
+
+CT Scan of Pelvis (With
+Contrast)
+
+.()
+
+IH
+
+5000.00
+
+254
+
+CT104
+
+CT Scan of Shoulder (Plain)
+
+---Select---()
+
+IH
+
+3000.00
+
+255
+
+CT105
+
+CT Scan of TM Joints (Plain
+)
+
+---Select---()
+
+IH
+
+2000.00
+
+256
+
+CT106
+
+CT Scan of Temporal Bone
+and Mastoids (Axial,
+Coronal)
+
+---Select---()
+
+IH
+
+3000.00
+
+257
+
+CT107
+
+CT Scan of Upper Abdomen
+(with Contrast)
+
+---Select---()
+
+IH
+
+6000.00
+
+258
+
+ct107
+
+CT Scan of Leg with 3D
+
+---Select---()
+
+IH
+
+4000.00
+
+259
+
+CT108
+
+CT Scan of Facial Bone
+
+---Select---()
+
+IH
+
+3000.00
+
+260
+
+CT109
+
+CT Scan of Foot
+
+.()
+
+IH
+
+3000.00
+
+261
+
+CT110
+
+CT Scan of Brain Venogram
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+7000.00
+
+262
+
+CT111
+
+CT Scan of Brain
+Angiogram
+
+NA
+
+---Select---(NA)
+
+IH
+
+Daily
+
+Same Day
+
+7000.00
+
+263
+
+CT112
+
+CT Scan of Neck Vessels (A
+ngio)
+
+.()
+
+IH
+
+8500.00
+
+264
+
+CT113
+
+CT SCAN OF TRIPHASIC
+ABDOMEN
+
+---Select---()
+
+IH
+
+7000.00
+
+265
+
+CT114
+
+CT Scan Of Enteroclysis
+
+---Select---()
+
+IH
+
+7000.00
+
+266
+
+CT115
+
+CT Brain With Orbits
+
+---Select---(NA)
+
+IH
+
+267
+
+CT116
+
+CT Scan of Pelvis (Plain)
+With 3D
+
+---Select---()
+
+IH
+
+268
+
+CT200
+
+CT Scan of 3D TM JOINT
+
+---Select---(NA)
+
+IH
+
+Page 16 of 86
+
+NA
+
+NA
+
+NA
+
+10000.00
+Daily
+
+Daily
+
+Same Day
+
+Same Day
+
+2000.00
+
+4000.00
+4000.00
+
+Daily
+
+Same Day
+
+5000.00
+
+CYTOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+269
+
+FLCY
+
+Cytology - Fluid
+
+Cytocentrifuge/Staining &
+Microscopy
+
+.(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+270
+
+FNAC
+
+FNAC (Fine Needle
+Aspiration For Cytology)
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+800.00
+
+271
+
+NPCY
+
+Cytology -Nipple Discharge
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+272
+
+PAP
+
+Pap Smear
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+700.00
+
+273
+
+PUSCY
+
+Cytology -PUS
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+274
+
+SPCY
+
+Cytology - Sputum
+
+Staining & Microscopy
+
+.(NA)
+
+15-22°
+C
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+275
+
+UCY
+
+Cytology - Urine
+
+Cytocentrifuge/Staining &
+Microscopy
+
+.(5ml)
+
+15-22°
+C
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+276
+
+UDCY
+
+Cytology - Umblicord
+Discharge
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+600.00
+
+277
+
+UFNAC
+
+Ultra Sound Guided FNAC
+
+Staining & Microscopy
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+4 Days
+
+1500.00
+
+Page 17 of 86
+
+MRP
+
+GENERAL
+SNo
+
+Test
+Code
+
+Name Of Test
+
+278
+
+GE001
+
+Audio Vision
+
+---Select---()
+
+IH
+
+350.00
+
+279
+
+GE002
+
+Audiometry
+
+---Select---()
+
+IH
+
+300.00
+
+280
+
+GE003
+
+Blood Collection
+
+---Select---()
+
+IH
+
+50.00
+
+281
+
+GE004
+
+Cardiologist Consultation
+
+---Select---()
+
+IH
+
+200.00
+
+282
+
+GE005
+
+Dental Checkup
+
+---Select---()
+
+IH
+
+200.00
+
+283
+
+GE006
+
+Endoscopy
+
+.()
+
+IH
+
+1800.00
+
+284
+
+GE007
+
+ENT Consultation
+
+---Select---()
+
+IH
+
+300.00
+
+285
+
+GE008
+
+EYE Check Up
+
+---Select---()
+
+IH
+
+300.00
+
+286
+
+GE009
+
+Fitness Certificate (LSG Pre
+-Employment)
+
+---Select---()
+
+IH
+
+150.00
+
+287
+
+GE010
+
+Gynaecologist or Physician
+Consultation
+
+---Select---()
+
+IH
+
+150.00
+
+288
+
+GE011
+
+Medical Examination
+Report (LIC)
+
+---Select---()
+
+IH
+
+200.00
+
+289
+
+GE012
+
+Medical Examination
+Report (MER)
+
+---Select---()
+
+IH
+
+140.00
+
+290
+
+GE013
+
+Orthopedic Consulatation
+
+.()
+
+IH
+
+300.00
+
+291
+
+GE014
+
+PFT (Pulmonary Function
+Test (Spirometry)
+
+---Select---()
+
+IH
+
+500.00
+
+292
+
+GE015
+
+Physical Fitness
+
+---Select---()
+
+IH
+
+300.00
+
+293
+
+GE016
+
+Physician Consultation
+
+---Select---()
+
+IH
+
+300.00
+
+294
+
+GE017
+
+Physician/Cardiologist
+Consultation
+
+---Select---()
+
+IH
+
+300.00
+
+295
+
+GE018
+
+Tesla Privilege Card
+
+---Select---()
+
+IH
+
+500.00
+
+296
+
+GE019
+
+Vision Test
+
+---Select---()
+
+IH
+
+100.00
+
+297
+
+GE020
+
+Typhoid Vaccine (Enteric
+Group of Diseased)
+
+---Select---()
+
+IH
+
+250.00
+
+298
+
+GE021
+
+Physiotherapy Consultation
+
+---Select---()
+
+IH
+
+250.00
+
+Page 18 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+GENERAL
+SNo
+
+Test
+Code
+
+Name Of Test
+
+299
+
+GE022
+
+Typhoid Vaccination
+
+---Select---()
+
+IH
+
+300.00
+
+300
+
+GE023
+
+Deworming
+
+---Select---()
+
+IH
+
+200.00
+
+301
+
+GE024
+
+Height,Weight,BP,Waist,Hip
+
+.()
+
+IH
+
+500.00
+
+302
+
+GE025
+
+Tesla Diabetic Card
+
+FLUORIDE
+PLASMA()
+
+IH
+
+1500.00
+
+303
+
+GE026
+
+Body Mass Index (BMI)
+
+---Select---()
+
+IH
+
+100.00
+
+304
+
+GE027
+
+Blood pressure (BP)
+
+---Select---()
+
+IH
+
+100.00
+
+305
+
+GE028
+
+Skin Checkup
+
+---Select---()
+
+IH
+
+250.00
+
+306
+
+GE030
+
+Doctor Consultation
+
+---Select---()
+
+IH
+
+300.00
+
+307
+
+ge031
+
+Nutrition Consultation
+
+---Select---()
+
+IH
+
+300.00
+
+308
+
+GE034
+
+Thyroid Vaccine
+
+---Select---()
+
+IH
+
+250.00
+
+309
+
+GE035
+
+Neurologist Consultation
+
+---Select---()
+
+IH
+
+400.00
+
+310
+
+GE26
+
+Fluid Aspiraton
+
+.()
+
+IH
+
+1000.00
+
+Page 19 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+HEMATOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+311
+
+AEC
+
+AEC (Absolute Eosinophil
+Count)
+
+Microscopy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+312
+
+ALC
+
+ALC (Absolute Leukocyte
+Count)
+
+Microscopy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+313
+
+ANC
+
+ANC (Absolute Neutrophil
+Count)
+
+Microscopy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+314
+
+BLG
+
+Blood Grouping and RH
+Typing
+
+Slide/Tube Method
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+315
+
+BT.CT
+
+Bleeding Time and Clotting
+Time
+
+Dukes/Capillary -Tube
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+Same Day
+
+120.00
+
+316
+
+CBP
+
+CBP (Complete Blood
+Picture)
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+317
+
+CBP-ABS
+
+CBP With Absolute Counts
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+318
+
+CELLCOU
+NT-F
+
+Fluid for Cell Count
+
+Microscopy
+
+Fluid(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+319
+
+DIFF.C
+
+DC (Differential Count)
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+same day
+
+120.00
+
+320
+
+EOS-Nas
+
+Nasal Swab For
+Eosinophils
+
+Microscopy
+
+NASAL SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+321
+
+ESR
+
+ESR
+
+Westergrens
+
+Sodium Citrate
+Plasma(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+322
+
+HB
+
+Hemoglobin
+
+Colorimetric
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+323
+
+M.F
+
+Microfilaria Smear
+examination
+
+Microscopy
+
+Peripheral Blood()
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+324
+
+MP
+
+MP (Malarial Parasite)
+
+Microscopy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+120.00
+
+325
+
+MX
+
+Mantoux Test
+
+.(NA)
+
+NA
+
+IH
+
+Daily
+
+48 hrs
+
+300.00
+
+326
+
+PCV
+
+PCV (Packed Cell Volume)
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+130.00
+
+Page 20 of 86
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+MRP
+
+HEMATOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+327
+
+PLT
+
+Platelet Count
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+328
+
+PS
+
+Pheripheral Smear
+Examination.
+
+Microscopy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+200.00
+
+329
+
+PV&PF
+
+Rapid Malaria Test (PV&PF)
+
+Immunochromatography
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+330
+
+RBC-Sputu
+m
+
+Sputum For RBC
+
+Microscopy
+
+Sputum(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Same DAy
+
+200.00
+
+331
+
+RDW
+
+RDW
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+332
+
+RETIC
+
+Reticulocyte Count
+
+Microscopy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+150.00
+
+333
+
+TLC
+
+WBC/TLC(Total Leucocyte
+Count)
+
+Automated 5-part
+hematology Analyzer/Microsc
+opy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+100.00
+
+Page 21 of 86
+
+MRP
+
+HISTOPATHOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+334
+
+HP001
+
+Biopsy - Small
+
+Leica Automated Tissue
+Processor and Stainer
+
+BIOPSY IN
+FORMALIN(NA)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+500.00
+
+335
+
+HP002
+
+Biopsy - Medium
+
+Leica Automated Tissue
+Processor and Stainer
+
+BIOPSY IN
+FORMALIN(NA)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+1000.00
+
+336
+
+HP003
+
+Biopsy - Large
+
+Leica Automated Tissue
+Processor and Stainer
+
+BIOPSY IN
+FORMALIN(NA)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+1200.00
+
+337
+
+HP004
+
+Biopsy - Extra Large
+
+Leica Automated Tissue
+Processor and Stainer
+
+BIOPSY IN
+FORMALIN(NA)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+2500.00
+
+338
+
+HP005
+
+Biopsy - Skin
+
+Leica Automated Tissue
+Processor and Stainer
+
+BIOPSY IN
+FORMALIN(NA)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+1500.00
+
+339
+
+HP006
+
+IHC (Immuno Histo
+Chemistry)
+
+Antigen Retrievel & Antigen
+Incubation
+
+BIOPSY IN
+FORMALIN(Blocks
+)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+2000.00
+
+340
+
+HP007
+
+IHC Breast Hormonal
+Pannel (ER,PR & HER2NE
+W)
+
+Antigen Retrievel & Antigen
+Incubation
+
+BIOPSY IN
+FORMALIN(Blocks
+)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+5600.00
+
+341
+
+HP008
+
+IHC Breast Hormonal
+Pannel (ER,PR)
+
+Antigen Retrievel & Antigen
+Incubation
+
+BIOPSY IN
+FORMALIN(Blocks
+)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+3800.00
+
+342
+
+HP009
+
+IHC- Final Diagnostic Panel
+
+Antigen Retrievel & Antigen
+Incubation
+
+BIOPSY IN
+FORMALIN(Blocks
+)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+9000.00
+
+343
+
+HP010
+
+Biopsy- Slides Second
+Openion
+
+Microscopy
+
+---Select---(NA)
+
+NA
+
+Cpath
+
+Daily
+
+4 Days
+
+1500.00
+
+344
+
+HP011
+
+IHC Lymphoma Panel
+
+Antigen Retrievel & Antigen
+Incubation
+
+BIOPSY IN
+FORMALIN(Blocks
+)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+11000.00
+
+345
+
+HP012
+
+IHC 3 Markers
+
+Antigen Retrievel & Antigen
+Incubation
+
+.(Blocks)
+
+NA
+
+Cpath
+
+Daily
+
+10 Days
+
+5500.00
+
+346
+
+HP013
+
+eGFR - Cell Block
+
+---Select---(NA)
+
+Cpath
+
+Daily
+
+20 Days
+
+13000.00
+
+347
+
+HP014
+
+IHC 4 - 8 ANTIGENS - CP
+
+.()
+
+Cpath
+
+Daily
+
+Page 22 of 86
+
+MRP
+
+10000.00
+
+IMMUNOASSAY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+348
+
+AMA
+
+AMA (Anti Microsomal or
+Anti TPO Antibodies)-BC00
+40
+
+CLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+900.00
+
+349
+
+AMA-ATG
+
+Anti Thyroid Antibodies (AM
+A, ATG) -BC0040,BC0039
+
+CLIA
+
+Serum(2 ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1800.00
+
+350
+
+AMH
+
+AMH (Anti Mullarian
+Hormone)
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+5 Days
+
+2000.00
+
+351
+
+ANA
+
+ANA ( Anti Nuclear
+Antibodies)
+
+CLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+352
+
+ATG
+
+ATG (Anti Thyroglobulin
+Antibody) -BC0039
+
+CLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+900.00
+
+353
+
+B HCG
+
+BETA HCG(Total)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+354
+
+BHCG-U
+
+BETA HCG(Urine)
+
+ECLIA
+
+Urine(5ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+355
+
+CA125
+
+CA - 125 - Ovarian Cancer
+Marker)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+900.00
+
+356
+
+Chik-Igm
+
+Chikungunya IgM(Rapid)
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+800.00
+
+357
+
+CORTI(4-8)
+
+Cortisol (4-8 PM)- Serum
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+358
+
+CORTI(6-1
+0)
+
+Cortisol (6 to 10 am)Serum
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+359
+
+CORTI-R
+
+Cortisol - Random - Serum
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+360
+
+DST(Cortis
+ol)
+
+Dexamethasone
+Suppression Test (Low
+dose 1 mg)
+
+IH
+
+Daily
+
+8 hrs
+
+700.00
+
+361
+
+E2
+
+Estrogen / Estradiol/E2
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+362
+
+FA
+
+Folic Acid
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+750.00
+
+363
+
+FERT
+
+Ferritin
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+800.00
+
+364
+
+FSH
+
+FSH (Follicle Stimulating
+Hormone )
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+365
+
+FT3
+
+FT3
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+366
+
+FT4
+
+FT4
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+367
+
+HBsAg(E)
+
+HBsAg (ECLIA)
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+Page 23 of 86
+
+Serum()
+
+MRP
+
+IMMUNOASSAY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+368
+
+HCV(E)
+
+HCV (ECLIA)
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+369
+
+HIV(E)
+
+HIV ECLIA
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+370
+
+HIV(IV)(E)
+
+HIV ECLIA (IV Generation )
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+371
+
+HOMA-IR
+
+Homa IR (Fasting Insulin ,
+FBS)
+
+ECLIA & Spectrophotometry
+
+Plasma-NaF /
+Serum(1ml/1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1100.00
+
+372
+
+IgE-T
+
+IgE - Total
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+650.00
+
+373
+
+INSU-F
+
+Insulin Fasting
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+650.00
+
+374
+
+INSU-P
+
+Insulin Post Lunch
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+650.00
+
+375
+
+INSU-R
+
+Insulin Random
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+650.00
+
+376
+
+LH
+
+LH (Luteinizing Hormone)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+377
+
+PRLDIL
+
+Prolactin (In Dilutions)
+
+378
+
+PROL
+
+Prolactin
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+550.00
+
+379
+
+PSA
+
+PSA (Prostate Specific
+Antigen) Total
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+380
+
+RUB-IgG
+
+Rubella -IgG
+
+CLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+381
+
+T3
+
+T3 ( Triiodothyronine)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+382
+
+T4
+
+T4 (Thyroxine)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+383
+
+TESTO-T
+
+Testosterone - Total
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+600.00
+
+384
+
+TFT
+
+Thyroid Function Test (T3 T
+4 TSH)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+385
+
+TSH
+
+TSH (Thyroid Stimulating
+Hormone)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+386
+
+TSH-3rd
+
+TSH (3rd Generation)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+387
+
+vit-b12
+
+Vitamin - B12
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+700.00
+
+388
+
+VIT-D3
+
+Vitamin D (25-Hydroxy)
+
+ECLIA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1200.00
+
+Page 24 of 86
+
+Serum()
+
+IH
+
+MRP
+
+2700.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+389
+
+0S565
+
+HCV (CMIA) - S062 (LP)
+
+---Select---(2ml)
+
+Lalpath
+
+Daily
+
+5Days
+
+1750.00
+
+390
+
+3 cell panel
+
+Blood group Antibody
+Screening (3 Cell Panel ) HM0165
+
+WB-EDTA & Serum
+()
+
+Ampath
+
+Daily
+
+5 days
+
+2200.00
+
+391
+
+CPKMB
+
+CPK-MB (CK-MB) - BC0088
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+Same Day
+
+500.00
+
+392
+
+OS001
+
+17-OHP (17-alpha Hydroxy
+Progesterone)-BC0001
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+393
+
+OS002
+
+5-Hydroxy Indole Acetic Acid
+(5-HIAA) - 24hrs Urine - BC
+0845
+
+Column Chromatography
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+394
+
+OS003
+
+5-Hydroxy Indole Acetic Acid
+(5-HIAA) - Spot urine - BC00
+03
+
+Column Chromatograph
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3600.00
+
+395
+
+OS004
+
+ACE (Angiotensin
+Convering Enzyme)-BC003
+6
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+396
+
+OS005
+
+ACTH (Adreno
+Corticotrophic Hormone) BC0014
+
+ECLIA
+
+WB-EDTA Plasma(
+2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1400.00
+
+397
+
+OS006
+
+ADA - Ascitic Fluid - BC000
+8
+
+Spectrophotometry
+
+Ascitic Fluid(2 ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+398
+
+OS007
+
+ADA - Pericardial Fluid - BC
+0010
+
+Spectrophotometry
+
+Pericardial Fluid(2
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+399
+
+OS008
+
+ADA - Peritonial Fluid - BC0
+011
+
+Spectrophotometry
+
+Peritoneal fluid(2m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+400
+
+OS009
+
+ADA - Serum - BC0013
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+401
+
+OS010
+
+ADA -Synovial Fluid - BC02
+53
+
+Spectrophotometry
+
+Synovial Fluid(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+402
+
+OS011
+
+ADA - CSF - BC0009
+
+Spectrophotometry
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+403
+
+OS012
+
+ADA - Any Other Fluid - BC0
+253
+
+Spectrophotometry
+
+Fluid(1ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+404
+
+OS013
+
+ADA - Pleural Fluid - BC001
+2
+
+Spectrophotometry
+
+Pleural Fluid(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+Page 25 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+405
+
+OS014
+
+AFB Culture (Fluorescent
+Method) (AP) - MB0098
+
+Fluorescent Based
+
+Any Sample(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+Interim- 2
+Days,1,2,3,4,5
+,6 Weeks
+
+1200.00
+
+406
+
+OS015
+
+Zinc - Serum - BC0273
+
+ICPMS
+
+Serum/EDTA
+Plasma(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+407
+
+OS016
+
+AFB Stain(Biopsy)
+
+Microscopy
+
+BIOPSY IN SALINE
+(NA)
+
+15-25°
+C
+
+Cpath
+
+Daily
+
+7 Days
+
+500.00
+
+408
+
+OS017
+
+AFB/TB Culture followed by
+MTb/MOTT identification -M
+B0184
+
+MGIT Culture & MGIT-TBC ID
+Test
+
+Any Sample(Excep
+t WB-EDTA/Hepari
+n and Any Sample)
+
+15-25°
+C
+
+Ampath
+
+Daily
+
+6 Weeks
+
+2500.00
+
+409
+
+OS018
+
+AFP (Alpha Feto Protein) Fluid
+
+CLIA
+
+Fluid.(2ml (Amnioti
+c,Ascitic,CSF Fluid
+))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1100.00
+
+410
+
+OS019
+
+AFP (Alpha Feto Protein)-Se
+rum - BC0028
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+411
+
+OS020
+
+Allergy Panel - Drugs 12
+Parameters (AP) -SI0495
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+10000.00
+
+412
+
+OS021
+
+Allergy Panel- Drugs 7
+Parameters (AP) -SI0496
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+6500.00
+
+413
+
+OS022
+
+Allergy -Any 10 Allergens (L
+P) - Z545
+
+Immuno CAP Specific IgE
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+15 Days
+
+10800.00
+
+414
+
+OS023
+
+Allergy- Any 5 Allergens(LP)
+- Z544
+
+Immuno CAP Specific IgE
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+6000.00
+
+415
+
+OS024
+
+Allergy-Cockroach (LP) - ZA
+010
+
+Immuno CAP Specific Assay
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1400.00
+
+416
+
+OS025
+
+Allergy-Dust Panel (
+HouseDust,Mites &
+Cockroach) - SI0497
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+1 Week
+
+4600.00
+
+417
+
+OS026
+
+Allergy-Fish (Machli) (LP) A031
+
+Immuno CAP Specific IgE
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1400.00
+
+418
+
+OS027
+
+Allergy-Gluten (LP) - A019
+
+Immuno CAP Specific Assay
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2200.00
+
+419
+
+OS028
+
+Allergy, Aspergillus
+Fumigatus (Lp) - A005
+
+Fluoroescent Enzyme
+Immuno Assay
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1300.00
+
+420
+
+OS031
+
+Amoebic Serology,IgG (LP)
+- S014
+
+Enzyme Immuno Assay
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+1600.00
+
+Page 26 of 86
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+421
+
+OS032
+
+Anti MOG (Anti NMO Panel)
+(LP) - S266
+
+IFA
+
+Serum(2 ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+8000.00
+
+422
+
+OS033
+
+Bordetella Pertussis -IgG
+antibodies (Quantitative) SI0423
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3600.00
+
+423
+
+OS034
+
+ANA Titres (IFA) -SI0012
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+424
+
+OS035
+
+ANCA -C (ANCA-PR3)-SI05
+28
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+425
+
+OS036
+
+ANCA (Anti Neutrophilic
+Cytoplasmic Antibodies) SI0063
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1600.00
+
+426
+
+OS037
+
+ANCA-P (ANCA-MPO)-SI05
+27
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+427
+
+OS038
+
+Anti CCP - BC0038
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+428
+
+OS039
+
+ANTI IA-2A (Insulinoma
+Associated Antigen) (LP) - S
+296
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+6000.00
+
+429
+
+OS040
+
+ASCA (Anti Saccharomyces
+Cerevisiae Antibody), IgA &
+IgG Panel (LP) - Z675
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+3000.00
+
+430
+
+OS041
+
+ASMA (Anti Smooth Muscle
+Antibody )-Screen - SI0064
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+431
+
+OS042
+
+ASMA (Anti Smooth Muscle
+Antibody) -Titre - SI0017
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Dail;y
+
+5 Days
+
+1600.00
+
+432
+
+OS043
+
+Biotinidase Deficiency Quantitative - BC0539
+
+Spectrophotometry
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+5900.00
+
+433
+
+OS044
+
+Acetone (Ketones)- SerumBC0316
+
+Biochemistry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+434
+
+OS045
+
+Catecholamines - Spot
+Urine (LP) - U043
+
+High Performance Liquid
+Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+5400.00
+
+435
+
+OS046
+
+Acetyl Choline Receptor
+Antibody -SI0107
+
+RIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3000.00
+
+436
+
+OS047
+
+Acid Fast Bacilli
+Susceptibility - 05 Drugs MB0214
+
+Fluorescent based Culture
+and Sensitivity
+
+Significant Growth(
+NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+Same Day
+
+8000.00
+
+Page 27 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+437
+
+OS048
+
+Acid Fast Bacilli
+Susceptibility - 10 DrugsMB0215
+
+Fluorescent based Culture
+and Sensitivity
+
+Significant Growth(
+NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+25 Days
+
+13000.00
+
+438
+
+OS049
+
+Acid Fast Bacilli
+Succeptibility - 13 Drugs MB0216
+
+Fluorescent based Culture
+and Sensitivity
+
+Significant Growth(
+NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+25 Days
+
+15000.00
+
+439
+
+OS050
+
+Acid Phosphatase Prostatic Fraction - BC0006
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+440
+
+OS051
+
+Acid Phosphatase Total
+and Prostatic - BC0005
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+441
+
+OS052
+
+Acid Phosphatase - Total BC0007
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+442
+
+OS053
+
+Alcohol (Ethanol)
+Quantitative -Urine -BC002
+2
+
+Biochemical
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+443
+
+OS054
+
+Alcohol (Ethanol)
+Quantitative - Serum -BC00
+21
+
+Biochemical
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+444
+
+OS055
+
+Aldolase -BC0023
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+445
+
+OS056
+
+Aldosterone (LP) - R049
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1400.00
+
+446
+
+OS057
+
+Aldosterone -24 hr Urine (L
+P) - U039
+
+CLIA
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+2000.00
+
+447
+
+OS058
+
+Aldosterone/plasma Renin
+Activity Ratio -BC0495
+
+Radioimmunoassay
+
+WB-EDTA & Serum
+(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+8600.00
+
+448
+
+OS059
+
+Alpha-1 -Antitrypsin -BC02
+86
+
+IT/Nephlometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+449
+
+OS060
+
+Aluminium -BC0855
+
+ICPMS
+
+EDTA PLASMA/SE
+RUM(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2800.00
+
+450
+
+OS061
+
+Aluminum - 24hrs Urine -B
+C0854
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3500.00
+
+451
+
+OS062
+
+Aluminum - Spot Urine -BC
+0856
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3300.00
+
+Page 28 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+452
+
+OS063
+
+Aminolevulinic Acid (5-ALA)
+- Spot Urine -BC0509
+
+Column Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5200.00
+
+453
+
+OS064
+
+Aminolevulinic Acid (5-ALA)
+-24hrs Urine -BC0508
+
+Column Chromatography
+
+Urine(20ml (24 hrs
+Urine Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5200.00
+
+454
+
+OS065
+
+Ammonia - BC0250
+
+Spectrophotometry
+
+EDTA/Plasma(3ml
+)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+455
+
+OS066
+
+Amphetamine -BC0595
+
+Flow Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+456
+
+OS067
+
+Androstenedione (LP)-R06
+0
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+457
+
+OS068
+
+Anti Diuretic Hormone (AD
+H) / Vasopressin -BC0514
+
+RIA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5800.00
+
+458
+
+OS069
+
+Anti Dnase B (Antideoxyrib
+onuclease B) (LP) - B075
+
+Latex Enhanced
+Nephelometry
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+1800.00
+
+459
+
+OS070
+
+Anti Gliadin IgA Antibodies SI0345
+
+Enzye Immunoassay
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2500.00
+
+460
+
+OS071
+
+Anti Gliadin IgG Antibodies SI0346
+
+Enzye Immunoassay
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2500.00
+
+461
+
+OS072
+
+Anti Islet Cell Antibody -SI04
+60
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+462
+
+OS073
+
+Jo-1 Antibody - SI0672
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Dail;y
+
+7 Days
+
+2000.00
+
+463
+
+OS074
+
+Anti Mitochondrial Antibody (IFA ) - SI0524
+
+Immuno Fluoresence
+Microscopy
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+464
+
+OS075
+
+Anti Phospholipid Ab (IgG,I
+gM)- SI0015/SI0016
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+465
+
+OS076
+
+Anti Phospholipid Ab( IgA) SI0685
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1600.00
+
+466
+
+OS077
+
+Anti Phospholipid Ab (IgG) SI0015
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+750.00
+
+467
+
+OS078
+
+Anti Phospholipid Ab( IgM ) SI0016
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+750.00
+
+468
+
+OS079
+
+Anti Soluble Liver Antigen (S
+LA)- SI0084
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+469
+
+OS080
+
+Anti Sperm Antibodies -SI03
+60
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1000.00
+
+Page 29 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+470
+
+OS081
+
+Anti Thrombin III (Antigenic)
+- HM0164
+
+Radio Immune Diffusion
+
+PLASMA CITRATE(
+Double
+Centrifuged
+Citrated Plasma(2
+ml))
+
+Freeze
+r
+
+Ampath
+
+Daily
+
+10 Days
+
+7000.00
+
+471
+
+OS082
+
+Anti Thrombin III- Functional
+(LP) - H101
+
+Chromogenic Assay
+
+PLASMA CITRATE(
+Double
+Centrifuged
+Citrated Plasma(2
+ml))
+
+Freeze
+r
+
+Lalpath
+
+Daily
+
+5 Days
+
+2200.00
+
+472
+
+OS083
+
+Clostridium Difficile Toxin (A
+P) - MB0017
+
+Rapid EIA
+
+Stool(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3200.00
+
+473
+
+OS084
+
+Anti ds-DNA Antibody- SI000
+6
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+474
+
+OS085
+
+Anti ds-DNA Antibody - IFA-S
+I0005
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2500.00
+
+475
+
+OS086
+
+Anti-Aquaporin-4 / NMO
+Antibodies -SI0106
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5800.00
+
+476
+
+OS087
+
+ApolipoProtein B (APO-B) BC0042
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+477
+
+OS088
+
+Apolipoprotein A1 (APO-A1)
+-BC0041
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+478
+
+OS089
+
+Arsenic - Blood - BC0518
+
+ICPMS
+
+WB-EDTA Plasma(
+3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3800.00
+
+479
+
+OS090
+
+Arsenic - 24 hrs Urine - BC
+0519
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3800.00
+
+480
+
+OS091
+
+Arsenic - Spot Urine - BC04
+43
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3800.00
+
+481
+
+OS092
+
+Aspergillus Specific IgE (M
+S)
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Medicis
+
+Daily
+
+7 Days
+
+1600.00
+
+482
+
+OS093
+
+Aspergillus AB IgG - SI0102
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2800.00
+
+483
+
+OS094
+
+Aspergillus AB IgM - SI0103
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3000.00
+
+484
+
+OS095
+
+B-Type Natriuretic Peptide (
+BNP) (LP) - B147
+
+CLIA
+
+WB-EDTA Plasma(
+3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2400.00
+
+Page 30 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+485
+
+OS096
+
+BCR - ABL Quantitative -PC
+R (LP) -N035
+
+Multiplex Real-Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+7200.00
+
+486
+
+OS097
+
+BETA 2 Glycoprotein 1-(IgG)
+-SI0020
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+487
+
+OS098
+
+BETA 2 Glycoprotein1 - (IgA)
+-SI0454
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+488
+
+OS099
+
+BETA 2 Glycoprotein1- (IgM)
+-SI0455
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+489
+
+OS100
+
+Beta 2 Glycoproteins1-(IgG,
+IgM,IgA)
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+490
+
+OS101
+
+BETA HCG(Free) -BC0251
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+491
+
+OS103
+
+Barbiturates-Urine - BC059
+6
+
+Flow Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+492
+
+OS104
+
+Benzodiazepine-Urine (LP)
+- K002
+
+Lateral Flow
+Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+700.00
+
+493
+
+OS105
+
+Beta 2 Microglobulin -Seru
+m - BC0045
+
+ELFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+494
+
+OS106
+
+Bicarbonate (Carbon
+Dioxide) -Serum -BC0048
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+300.00
+
+495
+
+OS107
+
+Bile Acids - Total -BC0306
+
+Photometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2600.00
+
+496
+
+OS109
+
+Brucella IgG - SI0366
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+497
+
+OS110
+
+Brucella IgM - SI0083
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+498
+
+OS111
+
+C-Peptide - BC0093
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+499
+
+OS112
+
+C3 (Complement 3) -BC00
+61
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+500
+
+OS113
+
+C4 (Complement 4) -BC00
+62
+
+Immunoturbometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+501
+
+OS114
+
+CA 15.3 (Breast Cancer
+Marker) -BC0064
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 DEays
+
+800.00
+
+502
+
+OS115
+
+CA 19.9 (Pancreatic Cancer
+Marker) -BC0065
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+503
+
+OS116
+
+CD3 / CD4 / CD8 Count
+
+Flwcytometry
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+Page 31 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+504
+
+OS117
+
+CD4 Count -HM0063
+
+Flowcytometry
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+505
+
+OS118
+
+CD4&CD8 Count -HM0116
+
+Flowcytometry
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+506
+
+OS119
+
+CD4/CD8 Count-Body Fluid
+- HM0273
+
+Flow Cytometery
+
+Fluid.(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2300.00
+
+507
+
+OS120
+
+CD4&CD8 Lymphocyte
+Subsetting (CD45 /CD3 /C
+D4 /CD8 ) - HM0013
+
+Flow Cytometery
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2500.00
+
+508
+
+OS121
+
+CEA (Carcino Embryonic
+Antigen) -BC0074
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+509
+
+OS122
+
+CK Isoenzyme
+Electrophoresis - BC0568
+
+Electrophoresis
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+9600.00
+
+510
+
+OS123
+
+CMV DNA PCR (Cytomegal
+o Virus) - Qualitative - MD00
+19
+
+Real Time PCR
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+5000.00
+
+511
+
+OS124
+
+CMV IgG ( Cytomegalo
+Virus) - SI0024
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+850.00
+
+512
+
+OS125
+
+CMV IgG (Cytomegalo Virus
+)-CSF - SI0546
+
+ELISA
+
+CSF (1ml)(1ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4600.00
+
+513
+
+OS126
+
+CMV IgM (Cytomegalo Virus
+) - SI0025
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+850.00
+
+514
+
+OS127
+
+CRP Quantitative(AP) - SI00
+23
+
+Immunoturbidometery
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+515
+
+OS128
+
+Culture & Sensitivity of
+Blood Anaerobic - MB0002
+
+Automated Liquid Based
+Anaerobic Culture
+
+Blood(5ml Special
+Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2000.00
+
+516
+
+OS129
+
+Cytology (PAP SMEAR),
+Genital, Female, Liquid
+Based (LP) - J006
+
+Microscopy
+
+.(Special
+Container)
+
+NA
+
+Ampath
+
+Daily
+
+5 Days
+
+1150.00
+
+517
+
+OS130
+
+Cadmium - 24hrs Urine BC0336
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+518
+
+OS131
+
+Cadmium - Blood - BC0337
+
+ICPMS
+
+WB-Heparin(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+519
+
+OS132
+
+Cadmium-Spot Urine - BC0
+338
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+Page 32 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+520
+
+OS133
+
+Calcitonin -BC0066
+
+Chemiluminescence
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+521
+
+OS134
+
+Calprotectin - Fecal -SI0094
+
+EIA
+
+Stool(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+3900.00
+
+522
+
+OS135
+
+Coccidioides Antibody (AP)
+- SI0536
+
+Immunodiffusion
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+25 Days
+
+12000.00
+
+523
+
+OS136
+
+Cannabinoids-Urine - BC0
+598
+
+Flow Chromatographic
+Immuno Assay
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+524
+
+OS137
+
+Carbamazepine (Tegretol) BC0072
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+525
+
+OS138
+
+Cardiolipin Antibody (IgG,Ig
+A, IgM)-SI0002/SI0104/SI00
+03
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+526
+
+OS139
+
+Cardiolipin Antibody (IgG,Ig
+M)-SI0002/SI0003
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+527
+
+OS140
+
+Cardiolipin IgA Antibody
+SI0104
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+528
+
+OS141
+
+Cardiolipin IgG Antibody -SI
+0002
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+529
+
+OS142
+
+Cardiolipin IgM Antibody -SI
+0003
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+530
+
+OS143
+
+Catecholamines - 24hrs
+Urine - BC0073
+
+Ion Exchange Columm
+Chromotography
+
+24 Hrs. Urine(20m
+l (24hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+531
+
+OS144
+
+Catecholamines - Plasma BC00554
+
+Chromotography
+
+WB-EDTA Plasma(
+3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+8500.00
+
+532
+
+OS145
+
+Centromere Antibody.- SI03
+44
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1600.00
+
+533
+
+OS146
+
+Ceruloplasmin - BC0075
+
+Immunochromatogrophy
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+534
+
+OS148
+
+Chikungunya RNA PCR MD0003
+
+Real Time PCR
+
+WB-EDTA(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3500.00
+
+535
+
+OS149
+
+Chlamydia Pneumonia IgG
+Antibodies - SI0376
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2800.00
+
+536
+
+OS150
+
+Chlamydia Pneumonia IgA
+Antibodies - SI0375
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2800.00
+
+Page 33 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+537
+
+OS151
+
+Chlamydia Pneumonia IgM
+Antibodies - SI0377
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2800.00
+
+538
+
+OS152
+
+Chlamydia Trachomatis IgA
+Antibodies.- SI0378
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+539
+
+OS153
+
+Chlamydia Trachomatis
+IgG Antibodies.- SI0086
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+540
+
+OS154
+
+Chlamydia Trachomatis
+IgM Antibodies.- SI0380
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+541
+
+OS155
+
+Cholinesterase - BC0087
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+542
+
+OS156
+
+Chromium - 24 hrs Urine -B
+C0345
+
+ICP-MS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+543
+
+OS157
+
+Chromium - Blood - BC034
+6
+
+ICP-MS
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+544
+
+OS158
+
+Chromium - Spot Urine BC0347
+
+ICP-AAS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+545
+
+OS159
+
+Chromogranin A (LP) - R09
+8
+
+Trace
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+5500.00
+
+546
+
+OS160
+
+Chromosome Analysis (Kar
+yotyping)
+
+Lymphocytes Cell Culture
+
+Sodium Heparin(3
+ml)
+
+2-8°C
+
+Gentech
+
+Daily
+
+25 Days
+
+4000.00
+
+547
+
+OS161
+
+Chromosome Analysis Husband
+
+Lymphocytes Cell Culture
+
+WB-Heparin(3ml)
+
+2-8°C
+
+Gentech
+
+Daily
+
+25 Days
+
+3600.00
+
+548
+
+OS162
+
+Chromosome Analysis Wife
+
+Lymphocytes Cell Culture
+
+WB-Heparin(3ml)
+
+2-8°C
+
+Gentech
+
+Daily
+
+25 Days
+
+3600.00
+
+549
+
+OS163
+
+Chyle - Urine-CP0003
+
+Chemical
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+550
+
+OS164
+
+Chylomicron- Urine - BC05
+57
+
+Bio Chemical
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+551
+
+OS165
+
+Chylomicron- Serum - BC0
+556
+
+Bio Chemical
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+800.00
+
+552
+
+OS166
+
+Citrate - 24hrs Urine- BC02
+96
+
+Spectrophotometry-Enzymati
+c
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+Page 34 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+553
+
+OS167
+
+Cobalt - 24 hrs Urine - BC0
+350
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume) Special
+Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+554
+
+OS168
+
+Cobalt - Blood - BC0351
+
+ICPMS
+
+EDTA-WB(3ml
+Special Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+555
+
+OS169
+
+Cobalt - Spot Urine - BC034
+9
+
+ICPMS
+
+Urine(20ml
+Special Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4200.00
+
+556
+
+OS170
+
+Coccaine - BC0599
+
+Flow Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+557
+
+OS171
+
+Copper - 24 hrs urine - BC0
+090
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2400.00
+
+558
+
+OS172
+
+Copper - Serum-BC0091
+
+Enzymatic colorimetric Assay
+-IFCC
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+559
+
+OS173
+
+Copper - Spot Urine - BC03
+53
+
+GFAAS With Zeeman
+Correction
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2400.00
+
+560
+
+OS174
+
+Cortisol - Free 24 hrs Urine
+- BC0564
+
+CLIA
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+561
+
+OS175
+
+Cryptococcus Antigen
+Detection - CSF/ Urine - SI0
+542
+
+Latex Partical Agglutination
+
+CSF/BAL/Urine(2m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+562
+
+OS176
+
+Cryptococcus Antigen
+Detection - Serum- SI0097
+
+Latex partical Agglutination
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+563
+
+OS177
+
+Cryptosporidium Antigen
+Detction-Stool(Rapid card) SI0383
+
+Radio Immuno Assay
+
+Stool(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2700.00
+
+564
+
+OS178
+
+Cryptosporidium Elements
+Identification Stool -Microsc
+opy - MB0192
+
+Staining & Microscopy
+
+Stool(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+565
+
+OS180
+
+Cyfra 21-1 (Lung Cancer
+Marker)- BC0570
+
+ECLIA
+
+Serum/EDTA
+Plasma(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+566
+
+OS181
+
+Cystatin-C - BC0101
+
+Nephlometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1700.00
+
+567
+
+OS182
+
+Cysticercosis IgG AntibodySI0089
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1800.00
+
+Page 35 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+568
+
+OS183
+
+D-Dimer (LP) -H134
+
+Latex Agglutination
+
+Plasma-Na.
+Citrated(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1000.00
+
+569
+
+OS184
+
+DHEA (Dehydroepiandroste
+rone) - BC0102
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+570
+
+OS185
+
+DHEA-S (Dehydroepiandro
+sterone-Sulphate) - BC010
+3
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+571
+
+OS186
+
+DHT (5A-Dihydrotestostero
+ne) - BC0105
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3500.00
+
+572
+
+OS187
+
+DMD/ BMD - (Duchenne /
+Becker Muscular Dystrophy
+) - 18 exons - MD0132
+
+Multiplex PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+9000.00
+
+573
+
+OS188
+
+Drug of Abuse - Urine Phencyclidine (PCP) -BC06
+03
+
+Flow Chromatographic
+Immunoassay
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+900.00
+
+574
+
+OS189
+
+Digoxin -BC0104
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1100.00
+
+575
+
+OS190
+
+Direct Coombs Test- HM00
+17
+
+Gel Agglutination
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+400.00
+
+576
+
+OS191
+
+Dopamine -24hrs Urine BC0589
+
+HPLC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+577
+
+OS192
+
+Dopamine - Plasma - BC05
+88
+
+EIA
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4900.00
+
+578
+
+OS193
+
+Drugs Abuse (12 Drugs) Urine
+
+Urine()
+
+Ampath
+
+8000.00
+
+579
+
+OS194
+
+Drug Abuse (6 Drugs) Urine
+
+Urine()
+
+Ampath
+
+3700.00
+
+580
+
+OS195
+
+Drug Abuse (9 Drugs) Urine
+
+Urine()
+
+Ampath
+
+5200.00
+
+581
+
+OS196
+
+Echinococcus Antibody IgG
+(Hydatid Serology)- SI0028
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+582
+
+OS197
+
+Endomysial Antibody IgA SI0516
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+583
+
+OS198
+
+Endomysial Antibody IgG SI0518
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+Page 36 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+584
+
+OS199
+
+Entamoeba Histolytica
+Antigen Detection-Stool MB0220
+
+Rapid Immunoassay
+
+Stool(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4600.00
+
+585
+
+OS200
+
+Epstein Barr Virus VCA IgG/
+EBV IgG
+
+Immunofluorescence
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+586
+
+OS201
+
+Epstein Barr Virus VCA IgM/
+EBV IgM
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+587
+
+OS202
+
+Erythropoietin (EPO) - BC01
+08
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+588
+
+OS203
+
+Estriol- E3( Un conjugated )
+-BC0110
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+589
+
+OS204
+
+Fluid Cell Block (AP)
+
+Cytocentrifuge/Cytology
+Process
+
+Fluid(NA)
+
+NA
+
+Ampath
+
+Daily
+
+5 Days
+
+900.00
+
+590
+
+OS205
+
+FTA-ABS (Fluoroscent
+Treponemal Antibody
+Absorption) (MS)
+
+Semi-Quantitative Indirect
+Fluorescent Antibody
+
+Serum(2ml)
+
+2-8°C
+
+Medicis
+
+Daily
+
+7 Days
+
+2400.00
+
+591
+
+OS206
+
+Factor - II - HM0091
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+10 Days
+
+9000.00
+
+592
+
+OS207
+
+Factor - V - HM0067
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2800.00
+
+593
+
+OS208
+
+Factor-V Leiden Mutation HM0070
+
+PCR RFLP
+
+WB-EDTA ( 3 ml)(3
+ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5000.00
+
+594
+
+OS209
+
+Factor - VII - HM0168
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4500.00
+
+595
+
+OS210
+
+Factor - VIII - HM0065
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+596
+
+OS211
+
+Factor - IX - HM0066
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+597
+
+OS212
+
+Factor - XI - HM0169
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4200.00
+
+598
+
+OS213
+
+Factor - XII - HM0068
+
+Clot Based
+
+PLASMA CITRATE(
+1ml)
+
+-20°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4500.00
+
+599
+
+OS214
+
+Factor - XIII - HM0055
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+-20°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+Page 37 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+600
+
+OS215
+
+Ferric Chloride (Phenylketo
+nurea) -BC0613
+
+Biochemical
+
+Urine(5ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+400.00
+
+601
+
+OS216
+
+FDP (Fibrinogen
+Degradation Product) -HM0
+023
+
+Latex Agglutination
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+602
+
+OS217
+
+Fibrinogen -HM0022
+
+Clotting
+
+Citrate Plasma(1m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+603
+
+OS218
+
+Fragile X (FMR1) Mutation
+Screen - MD0215
+
+PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+20 Days
+
+9500.00
+
+604
+
+OS219
+
+Free Androgen Index -BC06
+15
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3600.00
+
+605
+
+OS220
+
+Free Light Chain Assay (Ka
+ppa & Lambda)- Serum PR0040
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+8500.00
+
+606
+
+OS221
+
+Free Light Chain Assay (Ka
+ppa & Lambda)- Urine - BC
+0616
+
+Immunoturbidometry
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+8500.00
+
+607
+
+OS222
+
+Fructosamine -BC0115
+
+Spectrophotometry
+
+Plasma-NaF /
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+608
+
+OS223
+
+Fungal Stain (AP) MB0048
+
+Microscopy
+
+Any Sample(NA)
+
+NA
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+609
+
+OS224
+
+Fungal-Culture (AP) -MB00
+99
+
+Conventional Culture &
+Automated Identification
+
+Any Sample(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+20 Days
+
+1200.00
+
+610
+
+OS225
+
+G6PD (Glucose 6
+Phosphate Dehydrogenase
+) -BC0122
+
+Spectrophotometry
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+611
+
+OS226
+
+GAD-65 IgG (Glutamic Acid
+Decarboxylase) Anti Body (L
+P) - B150
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+4000.00
+
+612
+
+OS227
+
+Gilberts Syndrome Gene
+Sequencing (AP) - MD0204
+
+PCR Sequencing
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+20 Days
+
+12000.00
+
+613
+
+OS228
+
+Growth Disorder Panel (HI
+GH,IGF-1,IGFBP-3) - BC063
+8
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+9500.00
+
+614
+
+OS229
+
+Galactomannan - SI0678
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+6600.00
+
+615
+
+OS230
+
+Gastrin -BC0117
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1800.00
+
+Page 38 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+616
+
+OS231
+
+Gene Expert (MTB/RIF)
+
+Real Time PCR on
+Genexpert Plotform
+
+Any Sample(4ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3600.00
+
+617
+
+OS232
+
+Growth Hormone -BC0128
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+618
+
+OS233
+
+Growth Hormone -30
+Minutes
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+619
+
+OS234
+
+Growth Hormone -60
+Minutes
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+620
+
+OS235
+
+Growth Hormone -90
+Minutes
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+621
+
+OS236
+
+Growth Hormone -120
+Minutes
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+622
+
+OS237
+
+HAV- IgG (Hepatitis A virus-I
+gG) -SI0660
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+623
+
+OS238
+
+HAV- IgM (Hepatitis A virus-I
+gM) -SI0031
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+624
+
+OS239
+
+HB Electrophoresis - E002
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+800.00
+
+625
+
+OS240
+
+HBeAb (Hepatitis B Envelop
+Antibody/Anti HBe) -SI0034
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+626
+
+OS241
+
+HBeAg (Hepatitis B
+Envelop Antigen) -SI0035
+
+CLIA
+
+Serum(2ml)
+
+15-25°
+C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+627
+
+OS242
+
+HBsAb (Hepatitis B surface
+Antibody Total/Anti HBs) -SI
+0036
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+628
+
+OS243
+
+HCV Genotyping - MD0007
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+8800.00
+
+629
+
+OS244
+
+HCV IgM Antibody -SI0115
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1800.00
+
+630
+
+OS245
+
+HCV-RNA PCR (Qualitative)- MD0008
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3000.00
+
+631
+
+OS246
+
+HCV-RNA PCR (Quantitative) (Viral Load) MD0009
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5000.00
+
+632
+
+OS247
+
+HE4 (Human Epididymis
+Protein-4) - BC0367
+
+CMIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3200.00
+
+633
+
+OS248
+
+Hemonc Panel - CLPD - PR
+0134
+
+Flow Cytometery
+
+WB-EDTA & Na.
+Heparin(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+15000.00
+
+Page 39 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+634
+
+OS249
+
+Hepatitis E Virus Detection,
+PCR Qualitative (LP)
+
+Real Time PCR
+
+EDTA PLASMA/SE
+RUM(3ml/2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+5400.00
+
+635
+
+OS250
+
+HIV II Western Blot - SI0656
+
+Western Blot
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4500.00
+
+636
+
+OS251
+
+HIV Viral Load (RNA PCR
+Quantitative) - MD0011
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5000.00
+
+637
+
+OS252
+
+HIV Western Blot - SI0043
+
+Western Blot
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+638
+
+OS253
+
+HIV-DNA PCR - Qualitative MD0074
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+639
+
+OS254
+
+HIV-RNA PCR - Qualitative MD0010
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+640
+
+OS255
+
+HLA - B5 (B*51/52)(LP)- L0
+08
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+7200.00
+
+641
+
+OS256
+
+HLA B-27 - HM0040
+
+Flowcytometry
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+642
+
+OS257
+
+HLA B27 PCR - MD0027
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+643
+
+OS258
+
+HPV (Human Papilloma
+Virus-PCR) Qualitative (LP)
+- N040
+
+Real Time PCR
+
+Swab(Special
+Swab Available in
+main Branch)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2000.00
+
+644
+
+OS259
+
+HS-CRP - BC0132
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+645
+
+OS260
+
+HSV 1 & 2 DNA PCR (Qualit
+ative) - Serum - MD0073
+
+Real Time PCR
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3600.00
+
+646
+
+OS261
+
+HSV 1 & 2 IgG - SI0070
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+647
+
+OS262
+
+HSV 1 & 2 IgM - SI0071
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+648
+
+OS263
+
+HSV 1 IgG -SI0098
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+649
+
+OS264
+
+HSV 1 IgM -SI0099
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+650
+
+Os265
+
+HSV 2 IgG - SI0100
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+651
+
+OS266
+
+HSV 2 IgM - SI0101
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+652
+
+OS267
+
+HTLV 1 & 2 Antibodies - SI0
+407
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+6500.00
+
+653
+
+OS268
+
+Haptoglobin(LP) - B100
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1500.00
+
+Page 40 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+654
+
+OS269
+
+Helicobacter Pylori IgA
+Antibodies- SI0401
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2500.00
+
+655
+
+OS270
+
+Helicobacter Pylori IgG
+Antibodies - SI0402
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+656
+
+OS271
+
+Helicobacter Pylori IgM
+Antibodies - SI0403
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+657
+
+OS272
+
+Helicobacter Pylori Antigen
+Detection-Stool - MB0133
+
+Immunochromatography
+
+Stool(NA)
+
+15-25°
+C
+
+Ampath
+
+Daily
+
+5 Days
+
+2500.00
+
+658
+
+OS273
+
+Hepatitis B -DNA PCR
+Qualitative - MD0005
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3000.00
+
+659
+
+OS274
+
+Hepatitis B Core Antibody
+IgM (Anti HBc-IgM) -SI0032
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+660
+
+OS275
+
+Hepatitis B Core Antibody
+Total (HBcAb- Total) -SI003
+3
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+661
+
+OS276
+
+Hepatitis B Virus(HBV)
+-Genotyping - MD0070
+
+PCR Sequencing
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+9500.00
+
+662
+
+OS277
+
+Hepatitis B Viral Load(HBV DNA PCR Quantitative
+) - MD0006
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+663
+
+OS278
+
+Hepatitis Delta Virus
+Antibodies IgM (HDV IgM) SI0404
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3800.00
+
+664
+
+OS279
+
+Hepatitis Delta Virus
+Antibodies Total (HDV Total)
+-SI0405
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3200.00
+
+665
+
+OS280
+
+HEV -IgG (Hepatitis E virus
+Antibody - IgG -SI0065
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+666
+
+OS281
+
+HEV -IgM (Hepatitis E virus
+-IgM) -SI0040
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+667
+
+OS282
+
+Homocysteine - BC0131
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+668
+
+OS283
+
+IGF Binding Protein-3 (IGFP
+B-3) - BC0370
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+5000.00
+
+669
+
+OS284
+
+Iodine Total-Serum (IS-MP)
+
+ICPMS
+
+Serum(3ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+1 Month
+
+10000.00
+
+Page 41 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+670
+
+OS285
+
+IgG Subclass Assay - RW1
+09 (IS LP)
+
+Nephelometry
+
+Serum(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+1 Month
+
+15000.00
+
+671
+
+OS286
+
+Immunofixation
+Electrophoresis (IFE)
+Serum Qualitative - BC0135
+
+Capillary Electrophoresis &
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+6000.00
+
+672
+
+OS287
+
+Immunofixation
+Electrophoresis (IFE) 24Hr
+s Urine Qualitative - BC013
+4
+
+Capillary Electrophoresis &
+Immunoturbidometry
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 DAys
+
+8500.00
+
+673
+
+OS288
+
+Immunofixation
+Electrophoresis (IFE) 24Hr
+s Urine Quantitative -BC066
+4
+
+Capillary Electrophoresis &
+Immunoturbidometry
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+10000.00
+
+674
+
+OS289
+
+Immunofixation
+Electrophoresis (IFE)
+Serum Quantitative - BC066
+3
+
+Capillary Electrophoresis &
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+10000.00
+
+675
+
+OS290
+
+Immunoglobulin A (IgA) BC0136
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+676
+
+OS291
+
+Immunoglobulin G (IgG) BC0137
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+677
+
+OS292
+
+Immunoglobulin M (IgM) BC0138
+
+Immunoturbidometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+678
+
+OS293
+
+Indirect Coombs Test (ICT)
+- HM0018
+
+Gel Agglutination
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+679
+
+OS294
+
+Infectious Mononucleosis(L
+P) -S004
+
+Latex Agglutination
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1400.00
+
+680
+
+OS295
+
+Inhibin-B - BC0283
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2600.00
+
+681
+
+OS296
+
+Inhibin-A - BC0139
+
+ELISA / CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Day
+
+1600.00
+
+682
+
+OS297
+
+Insulin - Like Growth Factor
+-1 (IGF-I) - BC0284
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3000.00
+
+683
+
+OS298
+
+Insulin Antibodies - BC0674
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2800.00
+
+684
+
+OS299
+
+Intrinsic Factor Antibody -IF
+A - SI0410
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3500.00
+
+Page 42 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+685
+
+OS300
+
+Iodine Total-24hrs Urine (IS
+-MP)
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Metropolis
+
+Daily
+
+45 Days
+
+9000.00
+
+686
+
+OS301
+
+JAK2 Mutation- PCR - MD0
+015
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+7200.00
+
+687
+
+OS302
+
+LE Cells - L08
+
+Microscopy
+
+WB-Heparin(2ml)
+
+2-8°C
+
+Medicis
+
+Daily
+
+5 Days
+
+400.00
+
+688
+
+OS303
+
+Lactate - CSF - BC0686
+
+Enzymatic
+Spectrophotometry
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+689
+
+OS304
+
+Lactate - Plasma -BC0144
+
+Enzymatic
+Spectrophotometry
+
+FLUORIDE
+PLASMA(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+690
+
+OS305
+
+Lead Levels - 24 hrs Urine BC0384
+
+Atomic Absorption
+Spectrophotometry with
+Zeeman Correction
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2400.00
+
+691
+
+OS306
+
+Lead Levels - Spot Urine BC0385
+
+Atomic Absorption
+Spectrophotometry with
+Zeeman Correction
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2400.00
+
+692
+
+OS307
+
+Lead Levels - Whole Blood
+- BC0150
+
+Atomic Absorption
+Spectrophotometry with
+Zeeman Correction
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2400.00
+
+693
+
+OS308
+
+Leptin - BC0689
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5200.00
+
+694
+
+OS309
+
+Leptospira Antibody IgG - SI
+0073
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+695
+
+OS310
+
+Leptospira Antibody IgM - SI
+0074
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+696
+
+OS311
+
+Lipoprotein A (Lp-A) - BC01
+54
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+697
+
+OS312
+
+Lipoprotein Electrophoresis
+- BC0695
+
+Electrophoresis
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4200.00
+
+698
+
+OS313
+
+Lithium - BC0271
+
+ISE
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+699
+
+OS314
+
+Liver Kidney Microsome(LK
+M) Antibodies - SI0075
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+700
+
+OS315
+
+Lupus Anti Coagulant (LP) H123
+
+Electromechanical Clot
+Detection
+
+Sodium Citrate
+Plasma(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1500.00
+
+Page 43 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+701
+
+OS316
+
+Metal Screen 2 (WB)(AS,C
+D,CR,CO,PB,MN,TH) (LP) Z820
+
+ICPMS,AAS with Zeeman
+Carry
+
+.(Special Tube
+From Main Branch)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+13200.00
+
+702
+
+OS317
+
+Metal Screen 3(Urine)(AS,C
+D,CR,CO,PB,MN,TH,CU,ZN
+,SE,NI,HG) (LP)
+
+ICPMS,AAS with Zeeman
+Correction
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume) special
+container)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+16800.00
+
+703
+
+OS318
+
+MTHFR Gene Mutation
+Qualitative PCR (LP) -N049
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+4000.00
+
+704
+
+OS319
+
+Malarial Detection By QBC
+Method - HM0069
+
+QBC Method - Centifugation
+
+WB-EDTA(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+705
+
+OS320
+
+Manganese- 24 hrs Urine BC0387
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume)Special
+Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2800.00
+
+706
+
+OS321
+
+Manganese- Spot Urine -B
+C0389
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2800.00
+
+707
+
+OS322
+
+Manganese- Whole blood BC0388
+
+ICPMS
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2800.00
+
+708
+
+OS323
+
+Maternal Blood For Fetal
+DNA(MBFD) (LP) -N161
+
+DNA Sequencing
+
+Streck Tube(Speci
+al Tube)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+20 Days
+
+25000.00
+
+709
+
+OS324
+
+Measles IgG Antibodies - SI
+0045
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+710
+
+OS325
+
+Measles IgM Antibodies - SI
+0046
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+711
+
+OS326
+
+Mercury - 24hrs Urine -BC0
+391
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume) in Special
+Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5000.00
+
+712
+
+OS327
+
+Mercury - Spot Urine -BC03
+92
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5000.00
+
+713
+
+OS328
+
+Mercury - Whole Blood -BC
+0301
+
+ICPMS
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+714
+
+OS329
+
+Mercury - Serum -BC0393
+
+ICPMS
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+715
+
+OS330
+
+Metanephrines 24 hrs
+Urine - BC0159
+
+HPLC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+Page 44 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+716
+
+OS331
+
+Metanephrines - Free -BC0
+704
+
+ELISA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+5000.00
+
+717
+
+OS332
+
+Metanephrines
+Fractionated (EDTA Plasma
+)(MP) - M0151
+
+EIA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+10 Days
+
+10000.00
+
+718
+
+OS333
+
+Meternal Screen-Double
+Marker - PR0057
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2800.00
+
+719
+
+OS334
+
+Meternal Screen-Quadruple
+Marker - PR0058
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3500.00
+
+720
+
+OS335
+
+Meternal Screen-Triple
+Marker - PR0059
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+721
+
+OS336
+
+Methaemoglobin -BC0394
+
+Spectrophotometry
+
+N.A HEPARIN(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1300.00
+
+722
+
+OS337
+
+Methamphetamine- Spot
+Urine(LP) -K019
+
+Lateral Flow Immunoassay
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1500.00
+
+723
+
+OS338
+
+Methotrexate -BC0260
+
+Spectrophotometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4600.00
+
+724
+
+OS339
+
+Methyl Malonic Acid-Qualitat
+ive -Spot Urine -BC0707
+
+Bio Chemical
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+725
+
+OS340
+
+Microfilaria Antibodies (AP)SI0399
+
+Immunochromatography
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+726
+
+OS341
+
+Mumps IgG Antibodies - SI0
+047
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+727
+
+OS342
+
+Mumps IgM Antibodies - SI0
+048
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+728
+
+OS343
+
+Mycoplasma Pneumoniae
+IgG Antibodies -SI0418
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3000.00
+
+729
+
+OS344
+
+Mycoplasma Pneumoniae
+IgM Antibodies -SI0419
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3000.00
+
+730
+
+OS345
+
+Myoglobin Urine -BC0270
+
+Immunoassay
+
+Urine(20ml)
+
+15-25°
+C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+731
+
+OS346
+
+Myoglobin Serum -BC0395
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+732
+
+OS347
+
+New Born Screening (LP) Z335
+
+Fluoroimmenoassay
+
+Filter Paper(NA)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+2500.00
+
+733
+
+OS348
+
+Natural Killer Cells(LP) - Z1
+66
+
+Flow Cytometry
+
+WB-EDTA & Na.
+Heparin(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+4700.00
+
+Page 45 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+734
+
+OS349
+
+Nickel - 24 hrs Urine -BC04
+06
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume)Special
+Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+735
+
+OS350
+
+Nickel - Serum -BC0408
+
+ICPMS
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+736
+
+OS351
+
+Nickel - Spot Urine -BC040
+7
+
+ICPMS
+
+Urine(20ml
+Special Container)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4000.00
+
+737
+
+OS352
+
+Nicotine QuantitativeSerum -BC0719
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1900.00
+
+738
+
+OS353
+
+Nor Metanephrines - Free (
+Plasma) -BC0454
+
+ELISA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+6000.00
+
+739
+
+OS354
+
+Nor Metanephrines-24 hrs
+Urine -BC0453
+
+HPLC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3500.00
+
+740
+
+OS355
+
+Opiates (Morphine)-Urine BC0602
+
+Flow Chromatographic
+Immunoassay
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+741
+
+OS356
+
+Organic Acid Screen(Qualit
+ative) -Urine -BC0410
+
+HPLC
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+3000.00
+
+742
+
+OS357
+
+Organic Acids - Urine
+Quantitative - (GC/MS) (LP)
+
+GC-MS
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+4200.00
+
+743
+
+OS358
+
+Osmolality - Serum - BC01
+66
+
+Spectrophotometry/Caliculati
+on
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+744
+
+OS359
+
+Osmolality - 24 hrs Urine -B
+CBC0165
+
+Spectrophotometry/Caliculati
+on
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+745
+
+OS360
+
+Osmolality - Spot Urine BC0167
+
+Spectrophotometry/Caliculati
+on
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+746
+
+OS361
+
+Osmotic Fragility Test - HM0
+046
+
+Serial Dilution /
+Concentration
+
+N.A HEPARIN(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+747
+
+OS362
+
+Osteocalcin - BC0737
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+3500.00
+
+748
+
+OS363
+
+Oxalates - 24hrs Urine- BC
+0295
+
+Spectrophotometry
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+7 Days
+
+749
+
+OS364
+
+Oxalates - Spot Urine -BCB
+C0743
+
+Spectrophotometry
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+Page 46 of 86
+
+MRP
+
+2500.00
+
+7 Days
+
+2500.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+750
+
+OS365
+
+PAPP-A (Pregnency
+Associated Plasma Protein
+) - BC0168
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+751
+
+OS366
+
+Phadiatop- Allergy-Adult (LP
+) - A111
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1200.00
+
+752
+
+OS367
+
+Phadiatop- Allergy-Pediatric
+(LP) -A112
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1200.00
+
+753
+
+OS368
+
+PRA Screen (HLA Panel
+Reactive IgG Antibodies)
+(LP) - L003
+
+Luminex X Map Technology
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+7000.00
+
+754
+
+OS369
+
+PRO BNP (NT - PRO BNP) BC0179
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+755
+
+OS370
+
+Prolactin - Acive Monomeric
+-BC0777
+
+CMIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1600.00
+
+756
+
+OS371
+
+Prothrombin (Factor II)
+Gene Mutation-MD0278
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+8500.00
+
+757
+
+OS372
+
+PSA (Prostate Specific
+Antigen) Free - BC0197
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+900.00
+
+758
+
+OS373
+
+PSA (Total) With PSA(Free)
+And Ratio -BC0198
+
+ECLIA/Calculated
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+759
+
+OS374
+
+PTH (Para Thyroid
+Hormone) - BC0169
+
+CLIA
+
+EDTA Plasma(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+760
+
+OS375
+
+Paracetamol (Acetaminoph
+en) -BC0465
+
+Bio Chemical
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1600.00
+
+761
+
+OS376
+
+Parietal Cell Antibody (LP) S086
+
+Immunofluorescence Assay
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1800.00
+
+762
+
+OS377
+
+Paroxysmal Nocturnal
+Hemoglobinuria (PNH) -HM
+0033
+
+Flow Cytometry - Flaer
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+6500.00
+
+763
+
+OS378
+
+Phenobarbital (Phenobarbit
+one) -BC0170
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+764
+
+OS379
+
+Phenytoin (Eptoin) - BC017
+1
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+765
+
+OS380
+
+Phospholipase A2
+Receptor Antibody (PLA2R),
+Quantitative (LP) - S255
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+5500.00
+
+Page 47 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+766
+
+OS381
+
+Phospholipid Syndrome
+Panel (LP) - Z377
+
+EIA, Electromechanical Clot
+Detection
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+5400.00
+
+767
+
+OS382
+
+Placental Growth Factor (PL
+GF)(LP) - S257
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+3000.00
+
+768
+
+OS383
+
+Polarizing Microscopic
+Crystals (PMC) (Body
+Fluids)(LP) -P097
+
+Polarizing Microscopy
+
+Fluid.(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+400.00
+
+769
+
+OS384
+
+Porphobilinogen - 24 hrs
+Urine -BC0413
+
+Column Chromatography
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4900.00
+
+770
+
+OS385
+
+Porphobilinogen Spot Urine
+-BC0414
+
+Column Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+4900.00
+
+771
+
+OS386
+
+Porphyrins-24 hrs Urine BC0771
+
+HPLC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+25 Days
+
+9800.00
+
+772
+
+OS387
+
+Porphyrins-Spot Urine -BC0
+772
+
+Column Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+5900.00
+
+773
+
+OS388
+
+Prealbumin - BC0288
+
+Immunoturbometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4300.00
+
+774
+
+OS389
+
+Procalcitonin - BC0180
+
+ELFA
+
+Serum(2 ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2600.00
+
+775
+
+OS390
+
+Progesterone - BC0181
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+776
+
+OS391
+
+Protein C Antigen - HM021
+9
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3500.00
+
+777
+
+OS392
+
+Protein Electrophoresis 24 hrs Urine -BC0185
+
+Capillary Electrophoresis
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+1200.00
+
+778
+
+OS393
+
+Protein Electrophoresis Serum - BC0184
+
+Capillary Electrophoresis
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+779
+
+OS394
+
+Protein Electrophoresis
+CSF (Oligoclonal Bands) BC0183
+
+Isoelectric Focusing
+
+SERUM AND CSF(
+2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5200.00
+
+780
+
+OS395
+
+Protein S (Antigen) - HM022
+0
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3500.00
+
+781
+
+OS396
+
+Pyruvate - BC0462
+
+Biochemical
+
+SPECIAL TUBE(Sp
+ecial)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+Page 48 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+782
+
+OS397
+
+TB Gold Quantiferon(LP) - B
+160
+
+IGRA-ELISA
+
+Sodium Heparin(3
+ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2800.00
+
+783
+
+OS398
+
+RBC Folate (Includes
+Serum Folate) -BC0113
+
+CLIA
+
+WB-EDTA & Serum
+(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2800.00
+
+784
+
+OS399
+
+Renin Activity Plasma - BC
+0202
+
+RIA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+6200.00
+
+785
+
+OS400
+
+Rh Antibody Titre -HM0222
+
+Tube Agglutination
+
+WB-EDTA & Serum
+(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+786
+
+OS401
+
+Rheumatoid Factor IgA
+Antibody - SI0452
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1200.00
+
+787
+
+OS402
+
+Rheumatoid Factor IgM
+Antibody (RF-IgM) - SI0072
+
+Immunoturbidometry
+
+Serum(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+788
+
+OS403
+
+Rota Virus Antigen -Stool MB0221
+
+Immunochromatography
+
+Stool(NA)
+
+15-25°
+C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+789
+
+OS404
+
+Metanephrines-Fractionate
+d-24 hrs Urine (LP) - U035
+
+HPLC-EC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+7200.00
+
+790
+
+OS405
+
+Rubella -IgM -SI0052
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+791
+
+OS406
+
+Rubella RNA PCR -MD0173
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3000.00
+
+792
+
+OS407
+
+SCL-70 Antibody - SI0429
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+793
+
+OS408
+
+Scrub Typhus IgM -SI0091
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1300.00
+
+794
+
+OS409
+
+SHBG (Sex Hormone
+Binding Globulin) - BC0204
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+800.00
+
+795
+
+OS410
+
+SM/RNP Antibody (LP) - S2
+56
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2100.00
+
+796
+
+OS411
+
+SS-A/RO Antibody - SI0432
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+797
+
+OS412
+
+SS-B/LA Antibody - SI0433
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+798
+
+OS413
+
+Selenium -Serum -BC0420
+
+ICPMS
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+799
+
+OS414
+
+Selenium - 24hrs Urine -BC
+0419
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+Page 49 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+800
+
+OS415
+
+Selenium - Spot Urine -BC0
+421
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+801
+
+OS416
+
+Semen FructoseQualitative - BC0784
+
+Biochemical
+
+Semen(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+802
+
+OS417
+
+Serotonin(5-Hydroxy
+Tryptamine)-24hrs Urine -B
+C0788
+
+EIA
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+803
+
+OS418
+
+Serotonin(5-Hydroxy
+Tryptamine)-Serum -BC078
+7
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+804
+
+OS419
+
+Sickling Test (LP) - H042
+
+Deoxygenation/Microscopy
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+250.00
+
+805
+
+OS420
+
+Silver -BC0789
+
+ICPMS
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+6500.00
+
+806
+
+OS421
+
+Smith(SM) IgG Antibodies SI0430
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1600.00
+
+807
+
+OS422
+
+Sperm DNA Fragmentation
+-MD0255
+
+Conventional PCR & Gel
+
+Semen(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+7800.00
+
+808
+
+OS423
+
+Stone Analysis
+
+FTIR
+
+Stone(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1500.00
+
+809
+
+OS424
+
+Sudan IV Stain (Fat in Stool/
+Fluids/Urine) (LP) - J058
+
+Special Stain & Microscopy
+
+Stool/Urine/Fluid(N
+A)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+600.00
+
+810
+
+OS425
+
+Syphilis Serology (LP) S252
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+1800.00
+
+811
+
+OS426
+
+T-Cell Rearrangement -MD
+0023
+
+Real Time PCR
+
+Bone Marrow/WB.
+EDTA(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+20000.00
+
+812
+
+OS427
+
+TB PCR Qualitative- Tissue
+/Biopsy(CP)
+
+Real Time PCR
+
+Tissue(NA)
+
+15-25°
+C
+
+Cpath
+
+Daily
+
+7 Days
+
+2500.00
+
+813
+
+OS428
+
+TB PCR Qualitative- Fluid (
+LP) -N001
+
+Real Time PCR
+
+Fluid(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2500.00
+
+814
+
+OS429
+
+TB PCR Qualitative- Pus (M
+S)
+
+Real Time PCR
+
+Pus(NA)
+
+2-8°C
+
+Medicis
+
+Daily
+
+7 DAys
+
+4500.00
+
+815
+
+OS430
+
+TB PCR QualitativeSputum (LP) -N001
+
+Real Time PCR
+
+Sputum(NA)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2500.00
+
+816
+
+OS431
+
+TB PCR Qualitative- Urine (
+LP) - N001
+
+Real Time PCR
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2500.00
+
+817
+
+OS432
+
+TB PCR Qualitative- Whole
+Blood (LP) - N001
+
+Real Time PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2500.00
+
+Page 50 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+818
+
+OS433
+
+Tetanus Toxic Antibody - IgG
+-SI0439
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+7000.00
+
+819
+
+OS434
+
+TORCH 10 IgG & IgM - PR0
+076
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2500.00
+
+820
+
+OS435
+
+TORCH 4 IgG - SI0658
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+821
+
+OS436
+
+TORCH 4 IgM - SI0659
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+822
+
+OS437
+
+TORCH 5 IgG - PR0078
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+823
+
+OS438
+
+TORCH 5 IgM - PR0079
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+824
+
+OS439
+
+TORCH 8 IgG & IgM - PR00
+77
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+825
+
+OS440
+
+TOXO - IgG - SI0054
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+600.00
+
+826
+
+OS441
+
+TOXO - IgM - SI0055
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+300.00
+
+827
+
+OS442
+
+TPHA (Treponema
+Pallidum Hemagglutination
+) - SI0056
+
+Haem Agglutination
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+828
+
+OS443
+
+TPMT (Thiopurine Methyl
+Transferase) -BC0814
+
+EIA
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+7600.00
+
+829
+
+OS444
+
+Troponin I -HS (Quantitativ
+e) (LP) - B110
+
+CMIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2400.00
+
+830
+
+OS445
+
+Troponin T -HS (Quantitativ
+e) (LP) - B085
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2400.00
+
+831
+
+OS446
+
+TSH (Receptor Antibody)
+-BC0430
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+832
+
+OS447
+
+TSH (Ultra Sensitive) - BC0
+468
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+500.00
+
+833
+
+OS448
+
+Tacrolimus (LP) - G160
+
+LC-MS/MS
+
+Serum(2 ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+4300.00
+
+834
+
+OS449
+
+Testosterone Free -BC0216
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+835
+
+OS450
+
+Thalassemia Beta,
+Mutation Analysis (LP) - N0
+93
+
+PCR,Sequencing
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+8700.00
+
+836
+
+OS451
+
+Thallium - Spot Urine -BC0
+808
+
+ICPMS
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4500.00
+
+Page 51 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+837
+
+OS452
+
+Thallium - Whole Blood -BC
+0806
+
+ICPMS
+
+WB-EDTA & Na.
+Heparin(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4500.00
+
+838
+
+OS453
+
+Thallium - 24hrs Urine -BC
+0807
+
+ICPMS
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4500.00
+
+839
+
+OS454
+
+Thyroglobulin - BC0220
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+840
+
+OS455
+
+TTG-IgA (Tissue
+Transglutaminase Antibody
+IgA) -SI0349
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+841
+
+OS456
+
+TTG-IgG (Tissue
+Transglutaminase Antibody
+IgG) - SI0350
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+842
+
+OS457
+
+Transferrin -BC0224
+
+Spectrophotometry
+Calculation
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1000.00
+
+843
+
+OS458
+
+Homocysteine-Urine - BC0
+369
+
+Immunoturbidometery
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+1600.00
+
+844
+
+OS459
+
+Troponin I (Quantitative) BC0819
+
+ELFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1200.00
+
+845
+
+OS460
+
+Troponin T (Quantitative) BC0228
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2400.00
+
+846
+
+OS461
+
+VMA (Vanillyl Mandelic Acid
+Qualitative) - Spot Urine (M
+S) - V06
+
+Chemical
+
+Urine(20ml)
+
+2-8°C
+
+Medicis
+
+Daily
+
+5 Days
+
+800.00
+
+847
+
+OS462
+
+VMA (Vanillyl Mandelic Acid
+Quantitative) - 24 hrs Urine
+- BC0247
+
+HPLC
+
+24 Hrs. Urine(20m
+l (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+848
+
+OS463
+
+VMA (Vanillyl Mandelic AcidQuantitative)-Spot Urine BC0246
+
+HPLC
+
+Urine(20ml)
+
+20ml (
+24 hrs
+Urine
+Volum
+e)
+
+Ampath
+
+Daily
+
+7 Days
+
+4000.00
+
+849
+
+OS464
+
+Valporic Acid - BC0240
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+700.00
+
+850
+
+OS465
+
+Vancomycin - BC0431
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+10000.00
+
+851
+
+OS466
+
+Varicella zoster IgG
+Antibodies(chicken pox) - SI
+0058
+
+ELFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+Page 52 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+852
+
+OS467
+
+Varicella zoster IgM
+Antibodies(chicken pox) - SI
+0059
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+853
+
+OS468
+
+Varicella zoster PCR
+Antibodies(chicken pox) MD0251
+
+PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2600.00
+
+854
+
+OS469
+
+Vitamin - E (Tocopherol)
+-BC0243
+
+HPLC
+
+WB-EDTA / Serum(
+3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5000.00
+
+855
+
+OS470
+
+Vitamin C (Ascorbic Acid) BC0436
+
+HPLC
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+4500.00
+
+856
+
+OS471
+
+Vitamin D (1,25-Dihydroxy)(
+LP)-R118
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+1800.00
+
+857
+
+OS472
+
+Vitamin D2 & D3-25
+Hydroxy (MP)-V0144
+
+LCMS
+
+Serum(2ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+10 Days
+
+3800.00
+
+858
+
+OS473
+
+Vitamin A (Retinol) - BC043
+2
+
+HPLC
+
+WB-EDTA / Serum(
+3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+6000.00
+
+859
+
+OS474
+
+Vitamin-B1(Thiamine) - BC
+0433
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+15 Days
+
+5000.00
+
+860
+
+OS475
+
+Vitamin-B12 Active (Holo
+Transcobalamin) - BC0830
+
+CLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+861
+
+OS476
+
+Vitamin-B2 (Riboflavin) - BC
+0434
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+4500.00
+
+862
+
+OS477
+
+Vitamin-B6 (Pyridoxal) - BC
+0290
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+4500.00
+
+863
+
+OS478
+
+Vitamin-K (IS-AP) - BC0832
+
+HPLC
+
+N.A HEPARIN(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+20 Days
+
+14000.00
+
+864
+
+OS479
+
+Weil - Felix -SI0087
+
+Slide Agglutination
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+865
+
+OS480
+
+Y-Chromosome
+Microdeletion - MD0197
+
+PCR
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+15 Days
+
+10000.00
+
+866
+
+OS481
+
+Zinc 24hrs Urine - BC0834
+
+ICPMS
+
+Speical container(
+20ml (24 hrs Urine
+Volume))
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+867
+
+OS482
+
+Zinc -Spot Urine - BC0835
+
+ICPMS
+
+Speical container(
+20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+1500.00
+
+868
+
+OS483
+
+NONVEG
+
+Page 53 of 86
+
+Serum()
+
+Medicis
+
+MRP
+
+1100.00
+
+4200.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+869
+
+OS484
+
+Indian ink Stain - CSF - MB0
+079
+
+Microscopy
+
+CSF (1ml)(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+870
+
+OS485
+
+VEG-A33
+
+Serum()
+
+871
+
+OS486
+
+Inhalents - A34
+
+Serum(2ml)
+
+2-8°C
+
+Medicis
+
+Daily
+
+5 Days
+
+4200.00
+
+872
+
+OS488
+
+Bullous Pemphigoid (BP18
+0) (MP) - B0066
+
+EIA
+
+Serum(3ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+15 Days
+
+7000.00
+
+873
+
+OS489
+
+Bullous Pemphigoid (BP23
+0) (MP) -B0067
+
+EIA
+
+Serum(3ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+15 Days
+
+7000.00
+
+874
+
+OS490
+
+Desmoglein (DSG) I & III
+Antibody (LP) - S099
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+5500.00
+
+875
+
+OS491
+
+CA 72.4 - BC0335
+
+ECLIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2200.00
+
+876
+
+OS492
+
+Japanese Encephalitis
+RNA Detection CSF - MD01
+55
+
+Real Time PCR
+
+CSF (1ml)(1ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+6000.00
+
+877
+
+OS493
+
+Japanese Encephalitis
+RNA Detection Serum - MD
+0156
+
+Real Time PCR
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+6000.00
+
+878
+
+OS494
+
+Eosinophil Count-Sputum (
+AP) - CP0030
+
+Staining & Microscopy
+
+Sputum(NA)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+300.00
+
+879
+
+OS495
+
+Lyme Disease (Borrelia
+Burgdorferi - IgG) - ELISA SI0416
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2200.00
+
+880
+
+OS496
+
+Lyme Disease (Borrelia
+Burgdorferi - IgM) - ELISA -S
+I0417
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2200.00
+
+881
+
+OS497
+
+Tandem Mass Screening (
+MetabolicScreen) (GT)
+
+882
+
+OS498
+
+Newborn Screening -Exten
+ded (Inborn Errors Of
+Metabolism)-(LP)- G146
+
+TMS, Fluoroimmunoassay
+
+Filter Paper(Speci
+al Container)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+15 Days
+
+6000.00
+
+883
+
+OS499
+
+UGT1A1 GENE
+POLYMORPHISM (NUCLEO
+TIDE `TA` REPEATS)
+DETECTION(LP) - N189
+
+PCR, Fragment analysis
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+15 Days
+
+6600.00
+
+Page 54 of 86
+
+Medicis
+
+Filter Paper()
+
+MRP
+500.00
+4200.00
+
+Gentech
+
+6000.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+884
+
+OS500
+
+Chlamydia Trachomatis
+PCR-Urine - MD0026
+
+Real Time PCR
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+10 Days
+
+4300.00
+
+885
+
+OS501
+
+ENA (Extractable Nuclear
+Antigen) - Profile-Qualitative
+(AP) - SI0554
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+5800.00
+
+886
+
+OS502
+
+Sjogrens Syndrome
+Antibodies [SS-A (RO) And
+SS-B (LA) IgG -SI0431
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3400.00
+
+887
+
+OS503
+
+U1 RNP-Antibodies - SI044
+1
+
+EIA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2000.00
+
+888
+
+OS504
+
+Urine for Dysmorphic Cells(
+LP) - U066
+
+Phase Contrast Microscopy
+
+Urine(20ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+400.00
+
+889
+
+OS505
+
+Von Willebrand Factor (LP) H130
+
+Enzyme Immunoassay
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+10000.00
+
+890
+
+OS506
+
+Musk Antibodies (LP-S243)
+
+RIA
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+10 Days
+
+6600.00
+
+891
+
+OS507
+
+Chlamydia Trachomatis
+And Neisseria
+Gonorrhoeae -PCR
+Qualitative (LP)-Z779
+
+Real Time PCR
+
+Urine(20ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+5600.00
+
+892
+
+OS508
+
+DPT (Diptheria, Pertussis,
+Tetanus) Antibodies)- SI055
+0
+
+Serum(2 ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+8500.00
+
+893
+
+OS509
+
+Filaria Antibody-Serum - SI0
+399
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+2000.00
+
+894
+
+OS510
+
+NOTCH3 MUTATION
+DETECTION; CADASIL (LP)
+
+895
+
+OS511
+
+Beta 2 Transferrin
+Carbohydrate Resistance BC0529
+
+896
+
+OS512
+
+Veg & Non-Veg -A32
+
+Serum()
+
+Medicis
+
+4200.00
+
+897
+
+OS513
+
+Veg,Non-Veg and InhalentsA99
+
+Serum()
+
+Medicis
+
+7000.00
+
+898
+
+OS514
+
+Allergy Food Panel 1(LP) -Z
+091
+
+Page 55 of 86
+
+Immuno Chromatography
+
+EDTA-WB(4 ml)
+Immuno Fixation
+
+Immuno CAP
+
+SERUM/FLUID(NA
+)
+
+Serum(2ml)
+
+IH
+2-8°C
+
+2-8°C
+
+Ampath
+
+Lalpath
+
+MRP
+
+12000.00
+Daily
+
+Daily
+
+10 Days
+
+5 Days
+
+9000.00
+
+7800.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+899
+
+OS515
+
+Allergy Asthma / Rhinitis
+Screening Panel Adult(LP) Z684
+
+Immuno CAP
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+6600.00
+
+900
+
+OS516
+
+Toxoplasma DNA detection
+by PCR - other samples (Ur
+ine/Fluids) -MD0185
+
+PCR
+
+Body Fluid(5 ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+3900.00
+
+901
+
+OS517
+
+Carnitine, Serum(LP G170)
+
+LC-MS/MS
+
+Serum(2 ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+4800.00
+
+902
+
+OS518
+
+P1NP (Pro Collagen Type 1
+Amino Terminal Pro
+Peptide ), Total (LP) - B165
+A
+
+Electrochemiluminescence
+
+Serum(2ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+2000.00
+
+903
+
+OS519
+
+Influenza Virus A and B IgG SI0408
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Day
+
+4300.00
+
+904
+
+OS520
+
+Influenza Virus A and B IgMSI0409
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+4300.00
+
+905
+
+OS521
+
+Haemoglobin A2 (Hb A2)
+(MP) - H0019
+
+HPLC
+
+EDTA-WB(3ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+5 Days
+
+1600.00
+
+906
+
+OS522
+
+Maternal Blood For Fetal
+DNA (NIPT) ( LP N075)
+
+DNA Sequencing
+
+WB-EDTA(10ml in
+Special Container)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+18000.00
+
+907
+
+OS523
+
+Babesia Antibodies (IgG &
+IgM) - SI0530
+
+IFA
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Dailly
+
+10 Days
+
+9000.00
+
+908
+
+OS524
+
+GIEMSA Stain, Peripheral
+Blood (LP) - H211
+
+Microscopy
+
+WB-EDTA(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+5 Days
+
+400.00
+
+909
+
+OS525
+
+Fabry Disease, Quantitative
+, Blood (Alpha
+Galactosidase) (LP G127)
+
+Enzyme Assay
+
+WB-EDTA & Na.
+Heparin(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+7 Days
+
+2400.00
+
+910
+
+OS526
+
+Protein C Functional ActivityHM0056
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+6500.00
+
+911
+
+OS527
+
+Protein S Functional Activity
+- HM0057
+
+Clot Based
+
+Citrate Plasma(3m
+l)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5200.00
+
+912
+
+OS528
+
+Line Probe Assay - Second
+line Drugs (MP)A0115
+
+Line probe assay (HAIN'S
+Test)
+
+Fluid(2ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+10 Days
+
+7500.00
+
+913
+
+OS529
+
+Line Probe Assay - First line
+Drugs (MP)A0093
+
+Line probe assay (HAIN'S
+Test)
+
+Fluid(2ml)
+
+2-8°C
+
+Metropolis
+
+Daily
+
+10 Days
+
+3300.00
+
+914
+
+OS530
+
+IgG 4 Sub Class -BC0371
+
+Nephelometry
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+9400.00
+
+Page 56 of 86
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+915
+
+OS531
+
+Calcium - Corrected - BC00
+69
+
+Spectrophotometry and
+Calculation
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+400.00
+
+916
+
+OS532
+
+B-Cell Absolute Counts (CD
+19/CD20/CD45)
+Flowcytometry - HM0115
+
+Flow Cytometry
+
+WB-EDTA & Na.
+Heparin(4 ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 days
+
+4700.00
+
+917
+
+OS533
+
+Pan Neurotropic Virus
+Panel - MD0276
+
+Multiplex PCR
+
+CSF (1ml)()
+
+2-8°C
+
+Ampath
+
+Daily
+
+5 Days
+
+9500.00
+
+918
+
+OS534
+
+Herpes Simplex Virus Type
+1 & 2 Qualitative PCR - CSF
+- MD0021
+
+Real Time PCR
+
+CSF (1ml)()
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+5600.00
+
+919
+
+OS535
+
+Glucagon - BC0624
+
+Extraction RIA
+
+WB-EDTA(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+25 Days
+
+12500.00
+
+920
+
+OS536
+
+TBG (Thyroxine Binding
+Globulin) -BC0221
+
+Chemiluminescence
+
+Serum(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+7800.00
+
+921
+
+OS537
+
+Amino Acid Plasma Qualitative Screen BC0504
+
+Chromatography
+
+Plasma-Na.
+Heparin(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+7 Days
+
+2400.00
+
+922
+
+OS538
+
+Para Thyroid Hormone
+Related Peptide-BC0780
+
+Immunoasaay
+
+Plasma-Na.
+Heparin(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+1 month
+
+16000.00
+
+923
+
+OS539
+
+Glutamine-BC0629
+
+HPLC
+
+WB-EDTA(3ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+9800.00
+
+924
+
+OS540
+
+ENA (Extractable Nuclear
+Antigen) Profile - Qualitative
+- SI0554
+
+Immuno Blot
+
+Serum(2ml)
+
+2-8
+
+Ampath
+
+Daily
+
+5Days
+
+6000.00
+
+925
+
+OS541
+
+Immune Deficiency Panel (
+LP) - Z146
+
+Flow Cytometry
+
+WB-EDTA & Na.
+Heparin(3ml)
+
+2-8°C
+
+Lalpath
+
+Daily
+
+4 Days
+
+7500.00
+
+926
+
+OS542
+
+Culture & Sensitivity of
+Fluid- Anaerobic -MB0002
+
+Automated Liquid Based
+Anaerobic Culture
+
+Fluid(2ml)
+
+2-8°C
+
+Ampath
+
+Daily
+
+10 Days
+
+2000.00
+
+927
+
+OS543
+
+Amino Acid Urine Qualitative screen - BC050
+6
+
+Chromatography
+
+Urine(20ml)
+
+2-8°C
+
+IH
+
+Daily
+
+10 Days
+
+2400.00
+
+928
+
+OS544
+
+Tryptase -BC0821
+
+Fluorescence Immunoassy
+
+Serum(2ml)
+
+Ampath
+
+Daily
+
+1 Month
+
+12000.00
+
+929
+
+OS545
+
+Glycosaminoglycan (GAG) SI0676
+
+EIA
+
+Urine(20ml)
+
+Ampath
+
+Daily
+
+30 Days
+
+3900.00
+
+930
+
+OS546
+
+Melatonin-BC0700
+
+Ampath
+
+Daily
+
+20 Days
+
+5900.00
+
+Page 57 of 86
+
+Serum()
+
+2-8°C
+or
+Freeze
+
+MRP
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+931
+
+OS547
+
+Cyclosporine - BC0100
+
+932
+
+OS548
+
+933
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+EDTA-WB()
+
+Ampath
+
+Daily
+
+5 Days
+
+4000.00
+
+Neuronal (Paraneoplastic)
+Antibody Profile - SI0589
+
+Serum(4ml)
+
+Ampath
+
+DAILY
+
+5 days
+
+11500.00
+
+OS549
+
+Parvo virus B19 IgG - SI042
+1
+
+Serum()
+
+Ampath
+
+Daily
+
+15 Days
+
+3200.00
+
+934
+
+OS550
+
+Parvo virus B19 IgM - SI042
+2
+
+Serum(2ml)
+
+Ampath
+
+Daily
+
+15 Days
+
+3200.00
+
+935
+
+OS551
+
+Acetylcholine Receptor
+Blocking antibodies - BC04
+81
+
+Serum(3ml)
+
+Ampath
+
+Daily
+
+30 Days
+
+12000.00
+
+936
+
+OS552
+
+Cryoglobulin - Qualitative
+
+WB-EDTA & Serum
+(4 ml)
+
+Ampath
+
+Daily
+
+15 days
+
+1500.00
+
+937
+
+OS553
+
+Culture & Sensitivity Aerobic [URINE] by Vitek
+Method - MB0021
+
+Urine(10ml)
+
+Ampath
+
+Daily
+
+6days
+
+1100.00
+
+938
+
+OS554
+
+Tzanck Smear - CY0011
+
+Fluid(5ml)
+
+Ampath
+
+Daily
+
+5Days
+
+700.00
+
+939
+
+OS555
+
+Anti Platelet Antibody
+Qualitative- SI0599
+
+Serum(4ml)
+
+Ampath
+
+Daily
+
+12 Days
+
+8800.00
+
+940
+
+OS556
+
+DES-GAMMA CARBOXY
+PROTHROMBIN (DCP)/PIV
+KA II, SERUM (LP) - F026
+
+Serum(2 ml)
+
+Lalpath
+
+Daily
+
+10 Days
+
+4200.00
+
+941
+
+OS557
+
+NEWBORN SCREENING,
+EXTENDED (LP) - G146
+
+TMS, Fluoroimmunoassay
+
+WB-EDTA()
+
+Lalpath
+
+Daily
+
+7 Days
+
+6000.00
+
+942
+
+OS558
+
+AFB/TB Culture Fluorescent method (Rapid
+-MGIT) BACTEC - MB0098
+
+MGIT/BACTEC
+
+Any Sample(4 ml
+or above)
+
+Ampath
+
+Daily
+
+Interim- 2
+Days, 1, 2, 3 4,
+5, 6 weeks
+
+1300.00
+
+943
+
+OS559
+
+Culture and Identification Anaerobic -MB0149
+
+Any Sample()
+
+Ampath
+
+Daily
+
+1500.00
+
+944
+
+OS560
+
+Flowcytometry - CD19 - HM
+0189
+
+WB-EDTA & Na.
+Heparin()
+
+Ampath
+
+Daily
+
+2100.00
+
+945
+
+OS561
+
+Ganglioside - IgG antibody
+panel by immunoblot - SI01
+12
+
+Serum()
+
+Ampath
+
+Page 58 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+5 Days
+
+MRP
+
+5200.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+946
+
+OS562
+
+Ganglioside - IgM antibody
+panel by immunoblot - SI0
+559
+
+Serum()
+
+Ampath
+
+947
+
+OS563
+
+Veg,Non-Veg , Inhalents
+and Drugs- A90(MS)
+
+Serum(2ml)
+
+Medicis
+
+948
+
+OS564
+
+HBsAg (CMIA) - S215 (LP)
+
+---Select---(2ml)
+
+949
+
+OS567
+
+Anti GBM (Glomerular
+Basement Membrane )
+Antibody -IFA -SI0001
+
+950
+
+OS568
+
+GALACTOSEMIA
+CLASSICAL (TRANSFERAS
+E), QUANTITATIVE, BLOOD(
+GALT) -LP G117
+
+951
+
+os569
+
+952
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+5 DAYS
+
+5200.00
+
+Daily
+
+5 Days
+
+7000.00
+
+Lalpath
+
+Daily
+
+5 Days
+
+1700.00
+
+Serum(4ml)
+
+Ampath
+
+Daily
+
+5 Days
+
+2100.00
+
+Sodium Heparin(4
+ml)
+
+Lalpath
+
+Daily
+
+7 Days
+
+2300.00
+
+Immunoglobulin IgD - RW2
+44
+
+Serum()
+
+Lalpath
+
+Sample by
+3rd of the
+month
+
+30 days
+
+10000.00
+
+OS570
+
+FECAL ELASTATE { STOOL
+} -LP -S247
+
+Stool()
+
+Lalpath
+
+Daily
+
+953
+
+OS571
+
+CORTISOL -Saliva -R175 (L
+P)
+
+---Select---()
+
+Lalpath
+
+954
+
+OS573
+
+Rubella IgG Avidity - SI0428
+
+Serum()
+
+955
+
+OS574
+
+C1 Esterase Inhibitor Quantification (C1
+Inactivator - Quantitative)-B
+C0446
+
+956
+
+OS575
+
+957
+
+OS576
+
+Page 59 of 86
+
+Enzyme assay
+
+6000.00
+8 Days
+
+2400.00
+
+5 days
+
+830.00
+
+Ampath
+
+Daily
+
+Serum(4 ML)
+
+Ampath
+
+Daily
+
+ANTI-MOG (MYELIN
+OLIGODENDROCYTE
+GLYCOPROTEIN) (LP-S27
+1)
+
+Serum(2 ML)
+
+Lalpath
+
+Daily
+
+10 Days (Sa
+mple by Tue /
+Fri 9 am;
+Report Next
+day)
+
+7800.00
+
+Rabies Antibody - Serum SI0425
+
+Serum(4 ml)
+
+Ampath
+
+DAILY
+
+20 Days
+
+5000.00
+
+R (2-8°
+C) (4
+days)/F
+(-20°C)
+(>4
+days)
+
+3900.00
+
+LABORATORY MEDICINE
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+958
+
+OS577
+
+BRCA1 & BRCA2
+MUTATION ADVANCED
+PANEL (LP)- N194
+
+Next Generation Sequencing
+
+959
+
+OS578
+
+Fractional Excretion Of
+Sodium - B191 (LP)
+
+960
+
+OS579
+
+iPTH (PARATHYROID
+HORMONE), INTACT (iPTH)
+LP-R038
+
+961
+
+OS580
+
+Flowcytometry CD20 -HM0
+192
+
+962
+
+OS582
+
+963
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+WB-EDTA()
+
+Lalpath
+
+Daily
+
+21 Days
+
+Urine / Serum()
+
+Lalpath
+
+Daily
+
+5 Days
+
+900.00
+
+CLIA
+
+Serum(3 ml)
+
+Lalpath
+
+-20
+
+5 Days
+
+2000.00
+
+Flowcytometry
+
+WB-EDTA & Na.
+Heparin(4 ml)
+
+Ampath
+
+Daily
+
+5 days
+
+2100.00
+
+CMV - PCR Quantitative MD0020
+
+EDTA Plasma(2ml)
+
+Ampath
+
+Daily
+
+5 Days
+
+10300.00
+
+OS583
+
+Beta 2 Microglobulin - Urine
+spot - BC0528
+
+Urine(10 mL)
+
+Ampath
+
+Daily
+
+5 Days
+
+1800.00
+
+964
+
+OS584
+
+NEISSERIA GONORRHEA,
+PCR QUALITATIVE - LP [N0
+88]
+
+Lalpath
+
+Daily
+
+5 Days
+
+4200.00
+
+965
+
+OS585
+
+JAK2 Exon 14 Mutation Test
+- (Sandors)
+
+Sandors
+
+Daily
+
+4 Weeks
+
+8400.00
+
+Page 60 of 86
+
+PCR
+
+Temp
+
+R (2-8°
+C) (2
+days)/F
+(-20°C)
+(2
+month
+s)
+
+Urine(15 ml)
+
+EDTA-WB(4 ml)
+
+2-8
+
+MRP
+22000.00
+
+MICROBIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+966
+
+AXIL-C/S
+
+Culture & Sensitivity of
+Axillary Swab
+
+Aerobic Culture
+
+Swab()
+
+967
+
+B/C
+
+Culture & Sensitivity of
+Blood
+
+Aerobic Culture
+
+Blood(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+1Week
+
+1000.00
+
+968
+
+Drain-C/S
+
+Culture & Sensitivity of
+Drain Tip
+
+Aerobic Culture
+
+DRAIN SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+969
+
+EAR-C/S
+
+Culture & Sensitivity of Ear
+Swab
+
+Aerobic Culture
+
+EAR SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+970
+
+ET-C/S
+
+Culture & Sensitivity of ET
+
+Aerobic Culture
+
+ET(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+971
+
+EYE-C/S
+
+Culture & Sensitivity of Eye
+Swab
+
+Aerobic Culture
+
+EYE SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+972
+
+FLU-AFB
+
+AFB- Fluid
+
+Ziehl Neelsen stain. (Direct)
+
+Fluid(10ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+973
+
+FLUID-C/S
+
+Culture & Sensitivity of Fluid
+
+Aerobic Culture
+
+Fluid(5ml)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+974
+
+GONO
+
+Gonococci Urine
+
+Microscpoy
+
+Urine(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+150.00
+
+975
+
+GRAM
+
+Gram Stain
+
+Microscopy
+
+Any Sample(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+976
+
+GROIN-C/S
+
+Culture & Sensitivity of
+Groin Swab
+
+Aerobic Culture
+
+Swab()
+
+977
+
+KOH
+
+Fungal Elements (KOH
+Mount)
+
+WET Mount/Microscopy
+
+Any Sample(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+300.00
+
+978
+
+MILK-C/S
+
+Culture & Sensitivity of Milk
+
+Aerobic Culture
+
+Milk(5ml)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+979
+
+MRSA
+
+MRSA Screen
+
+Aerobic Culture
+
+.(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48 hrs
+
+1500.00
+
+980
+
+NAS-C/S
+
+Culture & Sensitivity of
+Nasal Swab
+
+Aerobic Culture
+
+NASAL SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+981
+
+ORAL-C/S
+
+Culture & Sensitivity of Oral
+Cavity Swab
+
+Aerobic Culture
+
+ORAL CAVITY
+SWAB(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+982
+
+Other-AFB
+
+AFB(Other sample)
+
+Ziehl Neelsen stain. (Direct)
+
+Any Sample(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+983
+
+PUS-AFB
+
+AFB-PUS
+
+Ziehl Neelsen stain. (Direct)
+
+Pus(NA)
+
+2-8°C
+
+IH
+
+Same Day
+
+Next Day
+
+250.00
+
+984
+
+PUS-C/S
+
+Culture & Sensitivity of PUS
+
+Aerobic Culture
+
+Pus(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+985
+
+S.H.V.C
+
+Stool-Hanging Drop for V.ch
+olerae
+
+Microscopy
+
+Stool()
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+Page 61 of 86
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+IH
+
+MRP
+400.00
+
+IH
+
+400.00
+
+MICROBIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+986
+
+SEMEN-C/
+S
+
+Culture & Sensitivity of
+Semen
+
+Aerobic Culture
+
+Semen(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+987
+
+SLITS
+
+Slit Skin Smear for AFB
+
+Ziehl Neelsen stain. (Direct)
+
+SMEAR(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+988
+
+SP-AFB
+
+AFB-Sputum
+
+Ziehl Neelsen stain. (Direct)
+
+Sputum(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+989
+
+SP-AFB2
+
+AFB-Sputum(2day)
+
+Ziehl Neelsen stain. (Direct)
+
+Sputum(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+990
+
+SP-AFB3
+
+AFB-Sputum(3day)
+
+Ziehl Neelsen stain. (Direct)
+
+Sputum(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+991
+
+SP-C/S
+
+Culture & Sensitivity of
+Sputum
+
+Aerobic Culture
+
+Sputum(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+992
+
+STOOL-C/S
+
+Culture & Sensitivity of Stool
+
+Aerobic Culture
+
+Stool(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+993
+
+SWAB-C/S
+
+Culture & Sensitivity of
+Swab
+
+Aerobic Culture
+
+Swab(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+994
+
+TH-C/S
+
+Culture & Sensitivity of
+Throat Swab
+
+Aerobic Culture
+
+THROAT SWAB(NA
+)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+995
+
+TH.C.DP
+
+Throat Swab for C.Diptheria
+(Albert Stain)
+
+Albert Stain/ Microscopy
+
+THROAT SWAB()
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+996
+
+THR-AFB
+
+AFB - Throat Swab
+
+Ziehl Neelsen stain. (Direct)
+
+THROAT SWAB(NA
+)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+997
+
+TIS-C/S
+
+Culture & Sensitivity of
+Tissue
+
+Aerobic Culture
+
+Tissue(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+998
+
+U-C/S
+
+Culture & Sensitivity of
+Urine
+
+Aerobic Culture
+
+Urine(10ml)
+
+2-8°C
+
+IH
+
+Daily
+
+48 hrs
+
+400.00
+
+999
+
+U-GRAM
+
+Gram Stain- Urethral
+Discharge
+
+Microscopy
+
+URETHRAL SWAB
+(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+1000
+
+UR-AFB
+
+AFB - Urine
+
+Ziehl Neelsen stain. (Direct)
+
+Urine(10ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+250.00
+
+1001
+
+URS-C/S
+
+Culture & Sensitivity of
+Urethral Swab
+
+Aerobic Culture
+
+URETHRAL SWAB
+(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+1002
+
+VAG-C/S
+
+Culture & Sensitivity of
+Vaginal Swab
+
+Aerobic Culture
+
+Vaginal Swab(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+1003
+
+Widal(TUB
+E)
+
+Widal (Tube Method)
+
+Tube Method
+
+Serum(3ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Next Day
+
+350.00
+
+1004
+
+WOU-C/S
+
+Culture & Sensitivity of
+Wound Swab
+
+Aerobic Culture
+
+WOUND(NA)
+
+2-8°C
+
+IH
+
+Daily
+
+48hrs
+
+400.00
+
+Page 62 of 86
+
+MRP
+
+MRI
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1005
+
+MR001
+
+MRI of Contrast
+
+---Select---()
+
+IH
+
+3000.00
+
+1006
+
+MR002
+
+MRI of Fistulogram
+
+---Select---()
+
+IH
+
+8000.00
+
+1007
+
+MR003
+
+MRI of Lumbar Spine
+
+---Select---()
+
+IH
+
+6500.00
+
+1008
+
+MR004
+
+MRI of Abdomen (Plain
+Study)
+
+---Select---()
+
+IH
+
+6500.00
+
+1009
+
+MR005
+
+MRI of Abdomen and Pelvis
+(Plain Study)
+
+---Select---()
+
+IH
+
+10000.00
+
+1010
+
+MR006
+
+MRI of Abdomen and Pelvis
+With Contrast
+
+.()
+
+IH
+
+13500.00
+
+1011
+
+MR007
+
+MRI of Abdomen and With
+MRCT
+
+---Select---()
+
+IH
+
+8500.00
+
+1012
+
+MR008
+
+MRI of Abdomen With
+Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+1013
+
+MR009
+
+MRI of Ankle Joint
+
+---Select---()
+
+IH
+
+6500.00
+
+1014
+
+MR010
+
+MRI of Arm
+
+---Select---()
+
+IH
+
+6500.00
+
+1015
+
+MR011
+
+MRI of Both Shoulders
+
+---Select---()
+
+IH
+
+12000.00
+
+1016
+
+MR012
+
+MRI of Both Wrists
+
+---Select---()
+
+IH
+
+12000.00
+
+1017
+
+MR013
+
+MRI of Brain(Plain Study)
+
+---Select---()
+
+IH
+
+6500.00
+
+1018
+
+MR014
+
+MRI of Brain(Epilepsy
+Protocal)
+
+---Select---()
+
+IH
+
+9500.00
+
+1019
+
+MR015
+
+MRI of Brain and PNS
+
+---Select---()
+
+IH
+
+9000.00
+
+1020
+
+MR016
+
+MRI of Brain Stroke Protocal
+
+---Select---()
+
+IH
+
+9500.00
+
+1021
+
+MR017
+
+MRI of Brain With MRV (EC
+CC)
+
+---Select---()
+
+IH
+
+9500.00
+
+1022
+
+MR018
+
+MRI of Brain With Angio
+
+---Select---()
+
+IH
+
+9500.00
+
+1023
+
+MR019
+
+MRI of Brain With Angio and
+Venogram
+
+---Select---()
+
+IH
+
+12000.00
+
+1024
+
+MR020
+
+MRI of Brain With Cranial
+Nerves
+
+.()
+
+IH
+
+9500.00
+
+1025
+
+MR021
+
+MRI of Brain With Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+Page 63 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+MRI
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1026
+
+MR022
+
+MRI of Brain With CSF Flow
+Study
+
+---Select---()
+
+IH
+
+9000.00
+
+1027
+
+MR023
+
+MRI of Brain With Orbit (
+Plain Study )
+
+---Select---()
+
+IH
+
+9000.00
+
+1028
+
+MR024
+
+MRI of Brain With Venogram
+
+---Select---()
+
+IH
+
+8500.00
+
+1029
+
+MR025
+
+MRI of Branchial Plexus
+
+---Select---()
+
+IH
+
+7500.00
+
+1030
+
+MR026
+
+MRI of Cervical Spine
+
+---Select---()
+
+IH
+
+6500.00
+
+1031
+
+MR027
+
+MRI of Cervical Spine With
+Screening of Whole Spine
+
+---Select---()
+
+IH
+
+10000.00
+
+1032
+
+MR028
+
+MRI of Cervico Dorsal
+Spine
+
+---Select---()
+
+IH
+
+9000.00
+
+1033
+
+MR029
+
+MRI of Chest
+
+.()
+
+IH
+
+6500.00
+
+1034
+
+MR030
+
+MRI of Chest / Thorax (
+Plain Study )
+
+---Select---()
+
+IH
+
+6500.00
+
+1035
+
+MR031
+
+MRI of Chest / Thorax With
+Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+1036
+
+MR032
+
+MRI of Cranio Vertebral
+Junction
+
+---Select---()
+
+IH
+
+6500.00
+
+1037
+
+MR033
+
+MRI of Diffusion
+
+---Select---()
+
+IH
+
+3500.00
+
+1038
+
+MR034
+
+MRI of Dorsal Spine
+
+---Select---()
+
+IH
+
+6500.00
+
+1039
+
+MR035
+
+MRI of Dorsal/ Lamber
+Spine
+
+---Select---()
+
+IH
+
+9500.00
+
+1040
+
+MR036
+
+MRI of Dynamic Pitutary
+Gland
+
+---Select---()
+
+IH
+
+10000.00
+
+1041
+
+MR037
+
+MRI of Elbow Joint
+
+---Select---()
+
+IH
+
+6500.00
+
+1042
+
+MR038
+
+MRI of Face
+
+---Select---()
+
+IH
+
+7500.00
+
+1043
+
+MR039
+
+MRI of Femur
+
+---Select---()
+
+IH
+
+7000.00
+
+1044
+
+MR040
+
+MRI of Foot
+
+---Select---()
+
+IH
+
+7000.00
+
+1045
+
+MR041
+
+MRI of Hand
+
+---Select---()
+
+IH
+
+7000.00
+
+1046
+
+MR042
+
+MRI of HIP
+
+.()
+
+IH
+
+7000.00
+
+Page 64 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+MRI
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1047
+
+MR043
+
+MRI of Internal Auditory
+Complex
+
+---Select---()
+
+IH
+
+9000.00
+
+1048
+
+MR044
+
+MRI of Joint Fingers
+
+---Select---()
+
+IH
+
+6500.00
+
+1049
+
+MR045
+
+MRI of Knee Joint
+
+---Select---()
+
+IH
+
+6500.00
+
+1050
+
+MR046
+
+MRI of Liver
+
+---Select---()
+
+IH
+
+10000.00
+
+1051
+
+MR047
+
+MRI of Lumbar Spine With
+Screening of Whole Spine
+
+---Select---()
+
+IH
+
+10000.00
+
+1052
+
+MR048
+
+MRI of Mandible
+
+---Select---()
+
+IH
+
+6500.00
+
+1053
+
+MR049
+
+MRI of Mediastinum With
+Contrast
+
+.()
+
+IH
+
+10000.00
+
+1054
+
+MR050
+
+MRI of Mediastinum (Plain
+Study)
+
+---Select---()
+
+IH
+
+6500.00
+
+1055
+
+MR051
+
+MRI of MRCP
+
+---Select---()
+
+IH
+
+10000.00
+
+1056
+
+MR052
+
+MRI of Neck
+
+---Select---()
+
+IH
+
+7000.00
+
+1057
+
+MR053
+
+MRI of Orbit
+
+---Select---()
+
+IH
+
+6500.00
+
+1058
+
+MR054
+
+MRI of Orbit with Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+1059
+
+MR055
+
+MRi of SI Joints
+
+.()
+
+IH
+
+7000.00
+
+1060
+
+MR056
+
+MRI of Pelvis (Plain Study)
+
+---Select---()
+
+IH
+
+7000.00
+
+1061
+
+MR057
+
+MRI of Pelvis with Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+1062
+
+MR058
+
+MRI of Pelvis with Both HIP
+Joints
+
+---Select---()
+
+IH
+
+7000.00
+
+1063
+
+MR059
+
+MRI of Peripheral Angio
+
+---Select---()
+
+IH
+
+12000.00
+
+1064
+
+MR060
+
+MRI of Pitutary Fossa (Plain
+Study)
+
+---Select---()
+
+IH
+
+6500.00
+
+1065
+
+MR061
+
+MRI of Pitutary Fossa with
+Contrast)
+
+---Select---()
+
+IH
+
+10000.00
+
+1066
+
+MR062
+
+MRI of PNS
+
+---Select---()
+
+IH
+
+7000.00
+
+1067
+
+MR063
+
+MRI of Portal Region
+
+---Select---()
+
+IH
+
+10000.00
+
+Page 65 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+MRI
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1068
+
+MR064
+
+MRI of Rectum
+
+---Select---()
+
+IH
+
+6500.00
+
+1069
+
+MR065
+
+MRI of Shoulder
+
+---Select---()
+
+IH
+
+7000.00
+
+1070
+
+MR066
+
+MRI of Fetal
+
+.()
+
+IH
+
+10000.00
+
+1071
+
+MR067
+
+MRI of Sleep
+
+.()
+
+IH
+
+4000.00
+
+1072
+
+MR068
+
+MRI of Spectroscopy
+
+---Select---()
+
+IH
+
+3500.00
+
+1073
+
+MR069
+
+MRI of Sternum
+
+---Select---()
+
+IH
+
+6500.00
+
+1074
+
+MR070
+
+MRI of Temporal Bone and
+Cochlea
+
+---Select---()
+
+IH
+
+6500.00
+
+1075
+
+MR071
+
+MRI of Testis
+
+---Select---()
+
+IH
+
+6500.00
+
+1076
+
+MR072
+
+MRI of Thorasic Spine With
+Screening of Whole Spine
+
+---Select---()
+
+IH
+
+10000.00
+
+1077
+
+MR073
+
+MRI of Thorax
+
+---Select---()
+
+IH
+
+6500.00
+
+1078
+
+MR074
+
+MRI of Tounge
+
+---Select---()
+
+IH
+
+6500.00
+
+1079
+
+MR075
+
+MRI of Tounge with
+Contrast
+
+---Select---()
+
+IH
+
+10000.00
+
+1080
+
+MR076
+
+MRI of Trgeminal Protocal
+
+---Select---()
+
+IH
+
+7500.00
+
+1081
+
+MR077
+
+MRI of Urogram
+
+.()
+
+IH
+
+7500.00
+
+1082
+
+MR078
+
+MRI of Whole Spine
+
+---Select---()
+
+IH
+
+16000.00
+
+1083
+
+MR079
+
+MRI of Screening
+
+---Select---()
+
+IH
+
+3500.00
+
+1084
+
+MR080
+
+MRI of Thigh
+
+---Select---()
+
+IH
+
+6500.00
+
+1085
+
+MR081
+
+MRI of Wrist
+
+---Select---()
+
+IH
+
+6500.00
+
+1086
+
+MR082
+
+MRI of Both Knee Joints
+
+---Select---()
+
+IH
+
+13000.00
+
+1087
+
+MR083
+
+MRI of Brain with Fiesta
+
+---Select---()
+
+IH
+
+8500.00
+
+1088
+
+MR084
+
+MRI of Back
+
+---Select---()
+
+IH
+
+7000.00
+
+1089
+
+MR085
+
+MRI Of Renal Angio
+
+---Select---()
+
+IH
+
+9000.00
+
+1090
+
+MR086
+
+MRI Brain With Pitutary
+
+.()
+
+IH
+
+8000.00
+
+Page 66 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+MRI
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+1091
+
+MR087
+
+MRI Brain Neck Angio (IC+E
+C)
+
+---Select---()
+
+IH
+
+12000.00
+
+1092
+
+MR088
+
+MRI of TM Joint
+
+---Select---()
+
+IH
+
+8000.00
+
+1093
+
+MR089
+
+MRI of Anastasiya charges
+
+---Select---()
+
+IH
+
+4000.00
+
+1094
+
+mr090
+
+MRI of Leg
+
+---Select---()
+
+IH
+
+7000.00
+
+1095
+
+MR091
+
+MRI Cervical Spine With
+Flextion and Extention
+
+---Select---()
+
+IH
+
+13000.00
+
+NEUROLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1096
+
+NE001
+
+E.E.G (Electroencephalogra
+m)
+
+---Select---()
+
+IH
+
+1000.00
+
+1097
+
+NE002
+
+ENMG
+
+---Select---()
+
+IH
+
+3000.00
+
+1098
+
+NE003
+
+Nerve Conduction Study
+Four Limbs
+
+.()
+
+IH
+
+4500.00
+
+1099
+
+NE004
+
+Nerve Conduction Study of
+All Limbs
+
+.()
+
+IH
+
+4500.00
+
+1100
+
+NE005
+
+Nerve Conduction Study of
+Both Lower Limbs
+
+---Select---()
+
+IH
+
+2500.00
+
+1101
+
+NE006
+
+Nerve Conduction Study of
+Both Upper Limbs
+
+---Select---()
+
+IH
+
+2500.00
+
+1102
+
+NE007
+
+Nerve Conduction Study of
+Hand
+
+---Select---()
+
+IH
+
+1500.00
+
+1103
+
+NE008
+
+Nerve Conduction Study of
+Lower Limbs
+
+---Select---()
+
+IH
+
+1500.00
+
+1104
+
+NE009
+
+Nerve Conduction Study of
+Upper Limbs
+
+---Select---()
+
+IH
+
+1500.00
+
+Page 67 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+OPG
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1105
+
+XR019
+
+X-Ray Cepalagrap (Lateral
+& Frontal)
+
+.()
+
+IH
+
+500.00
+
+1106
+
+XR077
+
+X-Ray OPG
+
+.()
+
+IH
+
+500.00
+
+1107
+
+XR095
+
+X-Ray TMJ Four Lines
+
+.()
+
+IH
+
+350.00
+
+Page 68 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1108
+
+DP030
+
+Doppler Study of Penile
+
+---Select---()
+
+IH
+
+3500.00
+
+1109
+
+xlb
+
+X-Ray Mammography Left
+Breast
+
+---Select---()
+
+IH
+
+1600.00
+
+1110
+
+XR001
+
+X-Ray LT Hip Joint AP & Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1111
+
+XR002
+
+X-Ray LT Elbow AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1112
+
+XR003
+
+X-Ray Left Foot AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1113
+
+XR004
+
+X-Ray LT Hand AP & Lat
+View
+
+---Select---()
+
+IH
+
+250.00
+
+1114
+
+XR005
+
+X-Ray Both Elbow AP View
+
+Ascitic Fluid()
+
+IH
+
+250.00
+
+1115
+
+XR006
+
+X-Ray Both Forearms Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1116
+
+XR007
+
+X-Ray Both Hand AP Views
+
+---Select---()
+
+IH
+
+250.00
+
+1117
+
+XR008
+
+X-Ray Both Hand Lat Views
+
+.()
+
+IH
+
+250.00
+
+1118
+
+XR009
+
+X-Ray Both Hands AP & Lat
+View
+
+.()
+
+IH
+
+500.00
+
+1119
+
+XR010
+
+X-Ray Both Heels AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1120
+
+XR011
+
+X-Ray Both Heels AP View
+
+---Select---()
+
+IH
+
+250.00
+
+1121
+
+XR012
+
+X-Ray Both Heels Lat View
+
+.()
+
+IH
+
+250.00
+
+1122
+
+XR013
+
+X-Ray Both Hip Joint AP
+View
+
+.()
+
+IH
+
+250.00
+
+1123
+
+XR014
+
+X-Ray Both Knees Lat View
+
+.()
+
+IH
+
+250.00
+
+1124
+
+XR015
+
+X-Ray Both Knees AP & Lat
+(Standing Views)
+
+.()
+
+IH
+
+600.00
+
+1125
+
+XR016
+
+X-Ray Both Knees AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1126
+
+XR017
+
+X-Ray Both Knees AP
+Standing View
+
+---Select---()
+
+IH
+
+300.00
+
+1127
+
+XR018
+
+X-Ray Both Knees AP View
+
+---Select---()
+
+IH
+
+300.00
+
+Page 69 of 86
+
+Methodology
+
+Microscopy
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1128
+
+XR020
+
+X-Ray Both Knees Lat View(
+Standing)
+
+.()
+
+IH
+
+300.00
+
+1129
+
+XR021
+
+X-Ray Both Knees Turnel
+View
+
+---Select---()
+
+IH
+
+300.00
+
+1130
+
+XR022
+
+X-Ray Both Legs AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1131
+
+XR023
+
+X-Ray Both Legs AP Views
+
+---Select---()
+
+IH
+
+250.00
+
+1132
+
+XR024
+
+X-Ray Both Legs Lat View
+
+.()
+
+IH
+
+250.00
+
+1133
+
+XR025
+
+X-Ray Both Lower Limbs AP
+& Lat
+
+.()
+
+IH
+
+1200.00
+
+1134
+
+XR026
+
+X-Ray Both Mandible Lat
+Views
+
+.()
+
+IH
+
+400.00
+
+1135
+
+XR027
+
+X-Ray Both Shoulder AP
+View
+
+---Select---()
+
+IH
+
+400.00
+
+1136
+
+XR028
+
+X-Ray Both Shoulder Lat
+View
+
+---Select---()
+
+IH
+
+400.00
+
+1137
+
+XR029
+
+X-Ray Both Thumbs AP &
+Lat View
+
+---Select---()
+
+IH
+
+500.00
+
+1138
+
+XR030
+
+X-Ray BothTM Joint View
+
+---Select---()
+
+IH
+
+400.00
+
+1139
+
+XR031
+
+X-Ray Both Wrist AP View
+
+---Select---()
+
+IH
+
+250.00
+
+1140
+
+XR032
+
+X-Ray Both Wrist Lat View
+
+.()
+
+IH
+
+250.00
+
+1141
+
+XR033
+
+X-Ray Wrist Both Oblique
+
+.()
+
+IH
+
+250.00
+
+1142
+
+XR034
+
+X-Ray C-Spine AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1143
+
+XR035
+
+X-Ray C-Spine Lat View
+
+.()
+
+IH
+
+200.00
+
+1144
+
+XR036
+
+X-Ray Cervical Both Lat
+View
+
+---Select---(1)
+
+IH
+
+400.00
+
+1145
+
+XR037
+
+X-Ray Cervical Spine AP &
+Lat View
+
+.()
+
+IH
+
+400.00
+
+1146
+
+XR039
+
+X-Ray Cervical Spine Both
+Oblique Views
+
+.()
+
+IH
+
+400.00
+
+1147
+
+XR040
+
+X-Ray Optional (Neck/Back/
+Knee)
+
+---Select---()
+
+IH
+
+400.00
+
+Page 70 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1148
+
+XR041
+
+X-Ray Sacrum AP & Lat
+View
+
+---Select---()
+
+IH
+
+400.00
+
+1149
+
+XR042
+
+X-Ray Mammography (Both
+Breast)
+
+.()
+
+IH
+
+2000.00
+
+1150
+
+XR043
+
+X-Ray Chest 14 X 17 Inches
+
+---Select---()
+
+IH
+
+300.00
+
+1151
+
+XR044
+
+X-Ray Abdomen AP &
+Lateral
+
+---Select---()
+
+IH
+
+400.00
+
+1152
+
+XR045
+
+X-Ray Arm AP & Lat View
+
+---Select---()
+
+IH
+
+400.00
+
+1153
+
+XR046
+
+X-Ray Axilla
+
+---Select---()
+
+IH
+
+200.00
+
+1154
+
+XR047
+
+X-Ray Barium Enema With
+Contrast
+
+---Select---()
+
+IH
+
+1500.00
+
+1155
+
+XR048
+
+X-Ray Barium Follow
+Through
+
+---Select---(6)
+
+IH
+
+1500.00
+
+1156
+
+XR049
+
+X-Ray Both Ankle Joint AP &
+Lat view
+
+---Select---()
+
+IH
+
+500.00
+
+1157
+
+XR050
+
+X-Ray Both Ankle Joint
+Axillary View
+
+---Select---()
+
+IH
+
+500.00
+
+1158
+
+XR051
+
+X-Ray Both Hands AP &
+Oblique
+
+---Select---()
+
+IH
+
+500.00
+
+1159
+
+XR052
+
+X-Ray Both Knees Skyline
+View
+
+---Select---()
+
+IH
+
+400.00
+
+1160
+
+XR053
+
+X-Ray Both Mastiods Lat
+View
+
+---Select---()
+
+IH
+
+300.00
+
+1161
+
+XR054
+
+X-Ray Chest Full Size
+
+---Select---()
+
+IH
+
+300.00
+
+1162
+
+XR055
+
+X-Ray Chest Large Film
+
+---Select---()
+
+IH
+
+300.00
+
+1163
+
+XR056
+
+X-Ray Clavical AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1164
+
+XR057
+
+X-Ray Clavical Lat View
+
+---Select---()
+
+IH
+
+200.00
+
+1165
+
+XR058
+
+X-Ray Extra Film
+
+---Select---()
+
+IH
+
+150.00
+
+1166
+
+XR060
+
+X-Ray Heel AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1167
+
+XR061
+
+X-Ray Hip AP & Lat View
+
+.()
+
+IH
+
+400.00
+
+Page 71 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1168
+
+XR062
+
+X-Ray Knee AP & Lat (Stand
+ing)
+
+---Select---()
+
+IH
+
+300.00
+
+1169
+
+XR063
+
+X-Ray Knee AP (Standing
+Veiw)
+
+---Select---()
+
+IH
+
+250.00
+
+1170
+
+XR064
+
+X-Ray Knee Lat Standing
+View
+
+.(2)
+
+IH
+
+250.00
+
+1171
+
+XR065
+
+X-Ray Left Knee AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1172
+
+XR066
+
+X-Ray Left Wrist AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1173
+
+XR067
+
+X-Ray Left Hand AP View
+
+---Select---()
+
+IH
+
+250.00
+
+1174
+
+XR068
+
+X-Ray Left Humerus AP &
+Lat View
+
+.()
+
+IH
+
+300.00
+
+1175
+
+XR069
+
+X-Ray Right Knee AP & Lat
+View
+
+---Select---()
+
+IH
+
+250.00
+
+1176
+
+XR070
+
+X-Ray Left Sholder AP & Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1177
+
+XR071
+
+X-Ray Right Wrist AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1178
+
+XR072
+
+X-Ray Wrist Obli AP and Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1179
+
+XR073
+
+X-Ray Mandible AP & Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1180
+
+XR074
+
+X-Ray MCUG (Micturating
+Cysto Urethrogram)
+
+---Select---()
+
+IH
+
+2000.00
+
+1181
+
+XR075
+
+X-Ray Nasopharynx With
+Adenoids
+
+---Select---()
+
+IH
+
+200.00
+
+1182
+
+XR076
+
+X-Ray of Part/Knee Neck
+
+---Select---()
+
+IH
+
+400.00
+
+1183
+
+XR079
+
+X-Ray Right Elbow AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1184
+
+XR080
+
+X-Ray Right Foot AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1185
+
+XR081
+
+X-Ray Right Hand AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+Page 72 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1186
+
+XR082
+
+X-Ray Right Humerus AP &
+Lat View
+
+.()
+
+IH
+
+300.00
+
+1187
+
+XR084
+
+X-Ray Right Shoulder AP &
+Lat View
+
+.(2)
+
+IH
+
+400.00
+
+1188
+
+XR086
+
+X-Ray Sacrum
+
+---Select---()
+
+IH
+
+200.00
+
+1189
+
+XR087
+
+X-Ray Sella
+
+---Select---()
+
+IH
+
+200.00
+
+1190
+
+XR088
+
+X-Ray Skull Town, S View
+
+---Select---()
+
+IH
+
+200.00
+
+1191
+
+XR089
+
+X-Ray Skyline View
+
+.()
+
+IH
+
+200.00
+
+1192
+
+XR090
+
+X-Ray Sternum Lat View
+
+.()
+
+IH
+
+200.00
+
+1193
+
+XR091
+
+X-Ray Spine
+
+.()
+
+IH
+
+200.00
+
+1194
+
+XR092
+
+X-Ray Thigh AP & Lat View
+
+.()
+
+IH
+
+400.00
+
+1195
+
+XR093
+
+X-Ray Thigh Lower With
+Knee Joint AP & Lat View
+
+.()
+
+IH
+
+300.00
+
+1196
+
+XR094
+
+X-Ray TM Joint Lat View
+
+.()
+
+IH
+
+200.00
+
+1197
+
+XR096
+
+X-Ray Urethrogram (RGV)
+Female
+
+---Select---()
+
+IH
+
+1500.00
+
+1198
+
+XR098
+
+X-Ray Wrist Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+1199
+
+XR099
+
+X-Ray Ankle Joints AP & Lat
+Views
+
+.()
+
+IH
+
+250.00
+
+1200
+
+XR100
+
+X-Ray Abdomen Lat View
+
+.()
+
+IH
+
+200.00
+
+1201
+
+XR102
+
+X-Ray Ankle Joint AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1202
+
+XR103
+
+X-Ray Ankle Joint Lat View
+
+.()
+
+IH
+
+200.00
+
+1203
+
+XR104
+
+X-Ray Ankle with Foot AP &
+Lat View
+
+.()
+
+IH
+
+500.00
+
+1204
+
+XR105
+
+X-Ray Barium Enema
+
+.()
+
+IH
+
+1500.00
+
+1205
+
+XR106
+
+X-Ray Barium Meal Follow
+Through
+
+---Select---()
+
+IH
+
+1500.00
+
+1206
+
+XR107
+
+X-Ray Barium Meal Series (
+Paediatric)
+
+---Select---()
+
+IH
+
+1500.00
+
+Page 73 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1207
+
+XR108
+
+X-Ray Barium Swallow
+
+---Select---()
+
+IH
+
+1500.00
+
+1208
+
+XR109
+
+X-Ray Base of Skull
+
+---Select---()
+
+IH
+
+200.00
+
+1209
+
+XR110
+
+X-Ray Both Ankles AP View
+
+---Select---()
+
+IH
+
+250.00
+
+1210
+
+XR111
+
+X-Ray Both Ankles Lat View
+
+.()
+
+IH
+
+250.00
+
+1211
+
+XR112
+
+X-Ray Both Arms AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1212
+
+XR113
+
+X-Ray Both Elbows AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1213
+
+XR115
+
+X-Ray Both Elbows Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1214
+
+XR116
+
+X-Ray Both Elbows Oblique
+View
+
+---Select---()
+
+IH
+
+250.00
+
+1215
+
+XR117
+
+X-Ray Both Foot AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1216
+
+XR118
+
+X-Ray Both Foot AP View
+
+---Select---()
+
+IH
+
+250.00
+
+1217
+
+XR119
+
+X-Ray Both Foot Lat View
+
+.()
+
+IH
+
+250.00
+
+1218
+
+XR120
+
+X-Ray Both Femurs AP &
+Lat Views
+
+.()
+
+IH
+
+600.00
+
+1219
+
+XR121
+
+X-Ray Both Femurs AP View
+
+---Select---()
+
+IH
+
+300.00
+
+1220
+
+XR122
+
+X-Ray Both Forearms AP &
+Lat Views
+
+.()
+
+IH
+
+500.00
+
+1221
+
+XR123
+
+X-Ray Both Forearms AP
+View
+
+---Select---()
+
+IH
+
+250.00
+
+1222
+
+XR132
+
+X-Ray Both Hip Joints Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1223
+
+XR133
+
+X-Ray Both Hips AP View
+
+---Select---()
+
+IH
+
+400.00
+
+1224
+
+XR140
+
+X-Ray Both T M Joints
+
+.()
+
+IH
+
+400.00
+
+1225
+
+XR142
+
+X-Ray Both Wrists AP & Lat
+Views
+
+.()
+
+IH
+
+500.00
+
+1226
+
+XR145
+
+X-Ray Cervical Spine Both
+Lateral Views
+
+---Select---()
+
+IH
+
+400.00
+
+Page 74 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1227
+
+XR148
+
+X-Ray Cervical Spine Left
+Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+1228
+
+XR149
+
+X-Ray Cervical Spine Right
+Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+1229
+
+XR150
+
+X-Ray Chest AP & Lat View
+
+.()
+
+IH
+
+400.00
+
+1230
+
+XR151
+
+X-Ray Chest AP View(For
+Ribs)
+
+---Select---()
+
+IH
+
+200.00
+
+1231
+
+XR152
+
+X-Ray Chest AP View (Paed
+iatric)
+
+---Select---()
+
+IH
+
+200.00
+
+1232
+
+XR153
+
+X-Ray Chest Both Lat Views
+
+.()
+
+IH
+
+400.00
+
+1233
+
+XR154
+
+X-Ray Chest Lat View
+
+.()
+
+IH
+
+200.00
+
+1234
+
+XR155
+
+X-Ray Chest Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+1235
+
+XR158
+
+X-Ray Clavicle Ap View
+
+---Select---()
+
+IH
+
+200.00
+
+1236
+
+XR159
+
+X-Ray Dental ( 1 Films)
+
+---Select---()
+
+IH
+
+150.00
+
+1237
+
+XR160
+
+X-Ray Dorsal Spine AP
+View
+
+---Select---(2)
+
+IH
+
+200.00
+
+1238
+
+XR161
+
+X-Ray Dorsal Spine AP &
+Lat Views
+
+.()
+
+IH
+
+400.00
+
+1239
+
+XR162
+
+X-Ray Dorsal Spine Lat
+View
+
+.()
+
+IH
+
+200.00
+
+1240
+
+XR163
+
+X-Ray Dorso Lumbar Spine
+AP & Lat Views
+
+.()
+
+IH
+
+400.00
+
+1241
+
+XR164
+
+X-Ray Dorso Lumbar Spine
+AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1242
+
+XR165
+
+X-Ray Dorso Lumbar Spine
+Lat View
+
+.()
+
+IH
+
+200.00
+
+1243
+
+XR166
+
+X-Ray Extra (CD)
+
+---Select---()
+
+IH
+
+100.00
+
+1244
+
+XR167
+
+X-Ray Elbow AP & Lat
+Views
+
+.()
+
+IH
+
+250.00
+
+1245
+
+XR168
+
+X-Ray Elbow AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1246
+
+XR169
+
+X-Ray Elbow Lat View
+
+.()
+
+IH
+
+200.00
+
+Page 75 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1247
+
+XR170
+
+X-Ray Entire Arm Ap View
+
+---Select---()
+
+IH
+
+200.00
+
+1248
+
+XR171
+
+X-Ray Erect Abdomen AP
+View
+
+.()
+
+IH
+
+200.00
+
+1249
+
+XR172
+
+X-Ray Extra Film (14x10)
+
+---Select---()
+
+IH
+
+200.00
+
+1250
+
+XR173
+
+X-Ray Extra Film (17x14)
+
+---Select---()
+
+IH
+
+300.00
+
+1251
+
+XR174
+
+X-Ray Extra Film (8x10)
+
+---Select---()
+
+IH
+
+100.00
+
+1252
+
+XR175
+
+X-Ray Femur AP & Lat View
+
+.()
+
+IH
+
+400.00
+
+1253
+
+XR176
+
+X-Ray Femur AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1254
+
+XR177
+
+X-Ray Femur Lat View
+
+.()
+
+IH
+
+200.00
+
+1255
+
+XR178
+
+X-Ray Finger AP & Lat View
+
+.()
+
+IH
+
+250.00
+
+1256
+
+XR179
+
+X-Ray Fistulogram
+
+---Select---()
+
+IH
+
+1500.00
+
+1257
+
+XR180
+
+X-Ray Foot AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+1258
+
+XR181
+
+X-Ray Foot AP & Oblique
+View
+
+.()
+
+IH
+
+250.00
+
+1259
+
+XR182
+
+X-Ray Foot AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1260
+
+XR183
+
+X-Ray Foot Lat View
+
+.()
+
+IH
+
+200.00
+
+1261
+
+XR184
+
+X-Ray Foot Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+1262
+
+XR185
+
+X-Ray Forearm AP & Lat
+View
+
+.()
+
+IH
+
+250.00
+
+1263
+
+XR186
+
+X-Ray Forearm AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1264
+
+XR187
+
+X-Ray Forearm Lat View
+
+.()
+
+IH
+
+200.00
+
+1265
+
+XR189
+
+X-Ray HSG
+
+---Select---(2)
+
+IH
+
+2000.00
+
+1266
+
+XR190
+
+X-Ray Hand AP & Oblique
+Views
+
+---Select---()
+
+IH
+
+250.00
+
+1267
+
+XR200
+
+X-Ray Hand AP View
+
+.()
+
+IH
+
+200.00
+
+1268
+
+XR201
+
+X-Ray Hand Lat View
+
+.()
+
+IH
+
+200.00
+
+1269
+
+XR202
+
+X-Ray Hand Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+Page 76 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1270
+
+XR203
+
+X-Ray Heel AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+1271
+
+XR204
+
+X-Ray Heel Axial and Lat
+Views
+
+.()
+
+IH
+
+250.00
+
+1272
+
+XR205
+
+X-Ray Heel Lat View
+
+.()
+
+IH
+
+200.00
+
+1273
+
+XR206
+
+X-Ray Hip Joint AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1274
+
+XR207
+
+X-Ray Hip Joint Lat View
+
+.()
+
+IH
+
+200.00
+
+1275
+
+XR208
+
+X-Ray Humerus AP & Lat
+Views
+
+.()
+
+IH
+
+400.00
+
+1276
+
+XR209
+
+X-Ray IVP & KUB
+
+---Select---()
+
+IH
+
+2000.00
+
+1277
+
+XR210
+
+X-Ray KUB
+
+---Select---(1)
+
+IH
+
+200.00
+
+1278
+
+XR211
+
+X-Ray Knee AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+1279
+
+XR212
+
+X-Ray Knee AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1280
+
+XR215
+
+X-Ray Knee Lat View
+
+.()
+
+IH
+
+200.00
+
+1281
+
+XR216
+
+X-Ray Knee Patellar View
+
+---Select---()
+
+IH
+
+200.00
+
+1282
+
+XR217
+
+X-Ray Knee Skyline View
+
+---Select---()
+
+IH
+
+200.00
+
+1283
+
+XR218
+
+X-Ray Knee Turnel View
+
+---Select---()
+
+IH
+
+200.00
+
+1284
+
+XR219
+
+X-Ray LS Spine AP &
+Lateral Views
+
+---Select---()
+
+IH
+
+400.00
+
+1285
+
+XR220
+
+X-Ray LS Spine AP Views
+
+---Select---()
+
+IH
+
+200.00
+
+1286
+
+XR221
+
+X-Ray LS Spine Both
+Oblique Views
+
+---Select---()
+
+IH
+
+400.00
+
+1287
+
+XR222
+
+X-Ray LS Spine Flexion &
+Extension
+
+---Select---()
+
+IH
+
+400.00
+
+1288
+
+XR223
+
+X-Ray LS Spine Lat View
+
+.()
+
+IH
+
+200.00
+
+1289
+
+XR224
+
+X-Ray LS Spine Oblique
+View
+
+---Select---()
+
+IH
+
+200.00
+
+1290
+
+XR225
+
+X-Ray LS Spine Right
+Oblique View
+
+---Select---()
+
+IH
+
+200.00
+
+Page 77 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1291
+
+XR226
+
+X-Ray Leg AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+1292
+
+XR227
+
+X-Ray Leg AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1293
+
+XR228
+
+X-Ray Leg Lat View
+
+.()
+
+IH
+
+200.00
+
+1294
+
+XR229
+
+X-Ray Mandible Lat View
+
+.()
+
+IH
+
+200.00
+
+1295
+
+XR230
+
+X-Ray Mandible AP View
+
+.()
+
+IH
+
+200.00
+
+1296
+
+xr230
+
+X-ray of Part
+
+---Select---()
+
+IH
+
+300.00
+
+1297
+
+XR231
+
+X-Ray Mastoids
+
+---Select---(1)
+
+IH
+
+250.00
+
+1298
+
+XR232
+
+X-Ray Nasal Bone AP & Lat
+Views
+
+.()
+
+IH
+
+400.00
+
+1299
+
+XR233
+
+X-Ray Nasal Bone Lateral
+
+---Select---()
+
+IH
+
+200.00
+
+1300
+
+XR234
+
+X-Ray Neck AP & Lat Views
+
+.()
+
+IH
+
+400.00
+
+1301
+
+XR235
+
+X-Ray Neck AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1302
+
+XR236
+
+X-Ray Neck Lat View
+
+.()
+
+IH
+
+200.00
+
+1303
+
+XR237
+
+X-Ray Orbit AP & Lat Views
+
+.()
+
+IH
+
+400.00
+
+1304
+
+XR238
+
+X-Ray Orbits
+
+---Select---()
+
+IH
+
+200.00
+
+1305
+
+XR239
+
+X-Ray Paranasal Sinus (PN
+S)
+
+.()
+
+IH
+
+200.00
+
+1306
+
+XR240
+
+X-Ray Paranasal Sinuses (
+PNS) AP & Lat Views
+
+.()
+
+IH
+
+400.00
+
+1307
+
+XR241
+
+X-Ray Pelvis AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1308
+
+XR242
+
+X-Ray Pelvis AP & Lat Views
+
+.()
+
+IH
+
+400.00
+
+1309
+
+XR244
+
+X-Ray Pelvis Lateral View
+
+---Select---()
+
+IH
+
+200.00
+
+1310
+
+XR245
+
+X-Ray Right Hip Joint AP &
+Lat Views
+
+.()
+
+IH
+
+400.00
+
+1311
+
+XR246
+
+X-Ray S I Joint AP & Lat
+Views
+
+.()
+
+IH
+
+400.00
+
+1312
+
+XR247
+
+X-Ray S I Joint AP View
+
+---Select---()
+
+IH
+
+200.00
+
+Page 78 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1313
+
+XR248
+
+X-Ray S I Joint Both Oblique
+Views
+
+---Select---()
+
+IH
+
+400.00
+
+1314
+
+XR249
+
+X-Ray S I Joint Lat View
+
+.()
+
+IH
+
+200.00
+
+1315
+
+XR250
+
+X-Ray Sacro Coccyx AP &
+Lat Views
+
+.()
+
+IH
+
+400.00
+
+1316
+
+XR251
+
+X-Ray Sacro Coccyx Lat
+Views
+
+.(2)
+
+IH
+
+200.00
+
+1317
+
+XR252
+
+X-Ray Scaphoid (Wrist)
+
+---Select---()
+
+IH
+
+200.00
+
+1318
+
+XR253
+
+X-Ray Shoulder AP &
+Lateral Views
+
+---Select---(1)
+
+IH
+
+400.00
+
+1319
+
+XR254
+
+X-Ray Shoulder AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1320
+
+XR255
+
+X-Ray Shoulder Axillary
+View
+
+---Select---()
+
+IH
+
+200.00
+
+1321
+
+XR257
+
+X-Ray Sinogram
+
+---Select---()
+
+IH
+
+1200.00
+
+1322
+
+XR258
+
+X-Ray Skull AP & Lat View
+
+.()
+
+IH
+
+400.00
+
+1323
+
+XR259
+
+X-Ray Skull AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1324
+
+XR260
+
+X-Ray Skull Lat View
+
+.()
+
+IH
+
+200.00
+
+1325
+
+XR261
+
+X-Ray Sternum AP & Lat
+View
+
+.()
+
+IH
+
+400.00
+
+1326
+
+XR262
+
+X-Ray TM Joint Lat View(2
+Views)
+
+.()
+
+IH
+
+250.00
+
+1327
+
+XR264
+
+X-Ray Thoracic Spine AP &
+Lateral Views
+
+---Select---()
+
+IH
+
+400.00
+
+1328
+
+XR265
+
+X-Ray Thoracic Spine AP
+View
+
+---Select---()
+
+IH
+
+200.00
+
+1329
+
+XR266
+
+X-Ray Thoracic Spine
+Lateral View
+
+---Select---()
+
+IH
+
+200.00
+
+1330
+
+XR267
+
+X-Ray Thoraco-Lumbar
+Spine Ap & Lat Views
+
+---Select---()
+
+IH
+
+400.00
+
+1331
+
+XR268
+
+X-RAY Thumb AP & Lat
+Views
+
+.()
+
+IH
+
+250.00
+
+1332
+
+XR269
+
+X-Ray Toe AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+Page 79 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+RADIOLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1333
+
+XR270
+
+X-Ray Total Body (Paediatri
+c)
+
+---Select---()
+
+IH
+
+300.00
+
+1334
+
+XR272
+
+X-ray Urethrogram (RGU)
+
+.()
+
+IH
+
+2000.00
+
+1335
+
+XR273
+
+X-Ray Wrist AP & Lat Views
+
+.()
+
+IH
+
+250.00
+
+1336
+
+XR274
+
+X-Ray Wrist AP Oblique
+View
+
+---Select---()
+
+IH
+
+250.00
+
+1337
+
+XR275
+
+X-Ray Wrist AP View
+
+---Select---()
+
+IH
+
+200.00
+
+1338
+
+XR276
+
+X-Ray Wrist Lat View
+
+.()
+
+IH
+
+200.00
+
+1339
+
+XR277
+
+X-Ray Chest PA View
+
+.()
+
+IH
+
+200.00
+
+1340
+
+XR278
+
+X-Ray Hand AP & Lat Views
+
+---Select---()
+
+IH
+
+250.00
+
+1341
+
+XR279
+
+Contrast
+
+---Select---()
+
+IH
+
+1200.00
+
+1342
+
+XR280
+
+Radial Nerve Study For
+Both Upper Limbs
+
+---Select---()
+
+IH
+
+3000.00
+
+1343
+
+XRB
+
+X-Ray Mammography Right
+Breast
+
+.()
+
+IH
+
+1600.00
+
+Page 80 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+SEROLOGY
+SNo
+
+Test
+Code
+
+Name Of Test
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+1344
+
+ANAP
+
+ANA Profile
+
+Immuno Blot
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+2 days
+
+1345
+
+ASO
+
+Antistreptolysin O (ASO)
+Titre
+
+Latex Agglutination
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+1346
+
+CRP
+
+C-Reactive Proteins(CRP)
+
+Latex Agglutination
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+1347
+
+DC
+
+Dengue Virus NS1, IgG &
+IgM Qualitative
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+1300.00
+
+1348
+
+DNC
+
+Dengue Virus NS1
+Qualitative
+
+IH
+
+Daily
+
+Same Day
+
+1100.00
+
+1349
+
+DNS
+
+Dengue NS1 Antigen ELISA
+
+ELISA
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily (Cutt
+of 3.30 pm)
+
+Same Day
+
+1100.00
+
+1350
+
+DS
+
+Dengue Serology (NS1,IgG
+&IgM)
+
+ELISA
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily (Cutt
+of 3.30 pm)
+
+Same Day
+
+2000.00
+
+1351
+
+HbsAgC
+
+HBsAg-Card
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+300.00
+
+1352
+
+HCVC
+
+HCV (Card)
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+1353
+
+HIVC
+
+HIV - Card
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+500.00
+
+1354
+
+HP24
+
+HIV P24 (4th Generation)
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily (Be
+fore 4.00
+pm)
+
+Same Day
+
+700.00
+
+1355
+
+RA
+
+RA Factor
+
+Latex Agglutination
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+350.00
+
+1356
+
+RPR
+
+RPR (Rapid Plasma
+Reagin)
+
+Latex Agglutination
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Next day
+
+300.00
+
+1357
+
+STIgG,IgM
+
+Salmoella Typhi IgG,IgM (Ty
+phoid)
+
+Immunochromatography
+
+Serum(2ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+450.00
+
+1358
+
+STIgM
+
+Salmoella Typhi IgM (Typho
+id)
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+400.00
+
+1359
+
+VDRL
+
+VDRL
+
+Immunochromatography
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+1360
+
+WIDAL(S)
+
+Widal (Slide Method)
+
+Slide Agglutination
+
+Serum(1ml)
+
+2-8°C
+
+IH
+
+Daily
+
+Same Day
+
+250.00
+
+Page 81 of 86
+
+Serum(2ml)
+
+MRP
+3600.00
+
+ULTRASOUND
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1361
+
+DP001
+
+Doppler Study of SPA
+
+.()
+
+IH
+
+1500.00
+
+1362
+
+DP002
+
+Doppler Study Of Abdomen
+
+.()
+
+IH
+
+1500.00
+
+1363
+
+DP003
+
+Doppler Study of Both
+Lower limbs (arterior and
+venous)
+
+.()
+
+IH
+
+6000.00
+
+1364
+
+DP004
+
+Doppler Study of Both
+Lower limbs (arterior and
+venous)
+
+.()
+
+IH
+
+6000.00
+
+1365
+
+DP005
+
+Doppler Study of Carotid
+
+.()
+
+IH
+
+1500.00
+
+1366
+
+DP006
+
+Doppler Study of Left Lower
+Limb (Arterial)
+
+.()
+
+IH
+
+1500.00
+
+1367
+
+DP007
+
+Doppler Study of Left Lower
+Limb (Venous)
+
+.()
+
+IH
+
+1500.00
+
+1368
+
+DP008
+
+Doppler Study of Left Upper
+Limb (Arterial)
+
+.()
+
+IH
+
+1500.00
+
+1369
+
+DP009
+
+Doppler Study of Left Upper
+Limb (Venous)
+
+.()
+
+IH
+
+1500.00
+
+1370
+
+DP010
+
+Doppler Study of Neck
+
+.()
+
+IH
+
+1500.00
+
+1371
+
+DP011
+
+Doppler Study of Pelvis
+
+.()
+
+IH
+
+1500.00
+
+1372
+
+DP012
+
+Doppler Study of Portal
+Veins
+
+.()
+
+IH
+
+1500.00
+
+1373
+
+DP013
+
+Doppler Study of Pregnancy
+
+.()
+
+IH
+
+1500.00
+
+1374
+
+DP014
+
+Doppler Study of Renal
+
+---Select---()
+
+IH
+
+1500.00
+
+1375
+
+DP015
+
+Doppler Study of Right
+Lower Limb (Arterial)
+
+.()
+
+IH
+
+1500.00
+
+1376
+
+DP016
+
+Doppler Study of Right
+Lower Limb (Venous)
+
+.()
+
+IH
+
+1500.00
+
+1377
+
+DP017
+
+Doppler Study of Right
+Upper Limb (Arterial)
+
+.()
+
+IH
+
+1500.00
+
+1378
+
+DP018
+
+Doppler Study of Right
+Upper Limb (Venous)
+
+.()
+
+IH
+
+1500.00
+
+1379
+
+DP019
+
+Doppler Study of Scrotum
+
+.()
+
+IH
+
+1500.00
+
+Page 82 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+ULTRASOUND
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1380
+
+DP020
+
+Doppler study of ARM
+Arterial Color Doppler
+
+.()
+
+IH
+
+1500.00
+
+1381
+
+DP021
+
+Doppler study of ARTERIAL
+BOTH LEGS
+
+.()
+
+IH
+
+3000.00
+
+1382
+
+DP022
+
+Doppler study of IIIAC
+Vessels
+
+.()
+
+IH
+
+1500.00
+
+1383
+
+DP023
+
+Doppler Study of Abdomen
+& Pelvis
+
+.()
+
+IH
+
+1500.00
+
+1384
+
+DP024
+
+Doppler Study of KUB,
+Scrotum,Pelives
+
+.()
+
+IH
+
+4500.00
+
+1385
+
+DP025
+
+Doppler Study of Lower
+limbs (Arterial &Venous)
+
+.()
+
+IH
+
+3000.00
+
+1386
+
+DP026
+
+Doppler Study of Twin
+Pregnency
+
+---Select---()
+
+IH
+
+2500.00
+
+1387
+
+DP027
+
+Doppler Study of Upper
+Limb For Fistula
+
+.()
+
+IH
+
+3000.00
+
+1388
+
+DP028
+
+Doppler Study of Upper
+Limbs (ARTERIAL &
+VENOUS)
+
+.()
+
+IH
+
+3000.00
+
+1389
+
+DP029
+
+Doppler Study of Vascular
+
+.()
+
+IH
+
+6000.00
+
+1390
+
+dp030
+
+Doppler Study of Neck
+Venous
+
+.()
+
+IH
+
+1500.00
+
+1391
+
+DP031
+
+Doppler study of
+Splenoportal Axis
+
+.()
+
+IH
+
+2000.00
+
+1392
+
+US001
+
+USG of Abdomen
+
+---Select---()
+
+IH
+
+800.00
+
+1393
+
+US002
+
+USG of Abdomen & Pelvis
+
+---Select---()
+
+IH
+
+800.00
+
+1394
+
+US003
+
+USG of Abdomen &
+Pregnancy
+
+---Select---()
+
+IH
+
+1200.00
+
+1395
+
+US004
+
+USG of Abdomen & KUB
+
+---Select---()
+
+IH
+
+800.00
+
+1396
+
+US005
+
+USG of Axilla
+
+---Select---()
+
+IH
+
+1200.00
+
+1397
+
+US006
+
+USG of Abdomen with PVR
+
+---Select---()
+
+IH
+
+800.00
+
+1398
+
+US007
+
+USG of Breast
+
+---Select---()
+
+IH
+
+1200.00
+
+Page 83 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+ULTRASOUND
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1399
+
+US008
+
+USG of Back
+
+---Select---()
+
+IH
+
+1200.00
+
+1400
+
+US009
+
+USG of Biophysical Profile
+
+---Select---()
+
+IH
+
+1500.00
+
+1401
+
+US010
+
+USG of Chest
+
+---Select---()
+
+IH
+
+1000.00
+
+1402
+
+US011
+
+USG of Calf
+
+---Select---()
+
+IH
+
+1000.00
+
+1403
+
+US012
+
+USG of External Follicular
+Study 3 Days
+
+---Select---()
+
+IH
+
+1400.00
+
+1404
+
+US013
+
+USG of TVS for Follicular
+Study 3days
+
+---Select---()
+
+IH
+
+1400.00
+
+1405
+
+US014
+
+USG of TVS for Follicular
+Study 4th Visit
+
+---Select---()
+
+IH
+
+300.00
+
+1406
+
+US015
+
+USG of Fingure
+
+.()
+
+IH
+
+1000.00
+
+1407
+
+US016
+
+USG of Foot
+
+.()
+
+IH
+
+1200.00
+
+1408
+
+US017
+
+USG of Face
+
+---Select---()
+
+IH
+
+1000.00
+
+1409
+
+US018
+
+USG of TVS Pelvis
+
+---Select---()
+
+IH
+
+900.00
+
+1410
+
+US019
+
+USG of 3D Tiffa
+
+.()
+
+IH
+
+2000.00
+
+1411
+
+US020
+
+USG of NT Scan
+
+.()
+
+IH
+
+1000.00
+
+1412
+
+US021
+
+USG of Late Tiffa
+
+---Select---()
+
+IH
+
+1500.00
+
+1413
+
+US022
+
+USG of Twin Pregnancy
+
+---Select---()
+
+IH
+
+1400.00
+
+1414
+
+US023
+
+USG of Twin Tiffa
+
+---Select---()
+
+IH
+
+2500.00
+
+1415
+
+US024
+
+USG of Pelvis
+
+.()
+
+IH
+
+800.00
+
+1416
+
+US025
+
+USG of Regional Study
+
+---Select---()
+
+IH
+
+1000.00
+
+1417
+
+US026
+
+USG of Scrotum
+
+---Select---()
+
+IH
+
+1000.00
+
+1418
+
+US027
+
+USG of Soft Tissue
+
+---Select---()
+
+IH
+
+1200.00
+
+1419
+
+US028
+
+USG of 3D Scan
+
+---Select---()
+
+IH
+
+2000.00
+
+1420
+
+US029
+
+USG of 4D Tiffa
+
+.()
+
+IH
+
+2000.00
+
+1421
+
+US030
+
+USG of RT Great Toe
+
+---Select---()
+
+IH
+
+1000.00
+
+Page 84 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+ULTRASOUND
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1422
+
+US031
+
+USG of Ingniral Area
+
+---Select---()
+
+IH
+
+1000.00
+
+1423
+
+US032
+
+USG of Calb
+
+---Select---()
+
+IH
+
+1000.00
+
+1424
+
+US033
+
+USG of Popliteal Fossa
+
+---Select---()
+
+IH
+
+1000.00
+
+1425
+
+US034
+
+USG of 3D and 4D
+
+---Select---()
+
+IH
+
+2000.00
+
+1426
+
+US035
+
+USG of Arm
+
+---Select---()
+
+IH
+
+1200.00
+
+1427
+
+US036
+
+USG of Trust
+
+---Select---()
+
+IH
+
+1500.00
+
+1428
+
+US037
+
+USG of Wrist
+
+---Select---()
+
+IH
+
+1200.00
+
+1429
+
+US038
+
+USG of Total Abdomen/Multi
+ple Study
+
+---Select---()
+
+IH
+
+1000.00
+
+1430
+
+US039
+
+USG of Pregnancy
+
+.()
+
+IH
+
+800.00
+
+1431
+
+US040
+
+USG of Shoulder
+
+---Select---()
+
+IH
+
+1200.00
+
+1432
+
+US041
+
+USG of Hip Joint
+
+.()
+
+IH
+
+1200.00
+
+1433
+
+US042
+
+USG of KUB
+
+---Select---()
+
+IH
+
+800.00
+
+1434
+
+US043
+
+USG of Left Ankle
+
+---Select---()
+
+IH
+
+1000.00
+
+1435
+
+US044
+
+USG of Neck
+
+---Select---()
+
+IH
+
+1000.00
+
+1436
+
+US045
+
+USG of Neuro-Sonography
+
+---Select---()
+
+IH
+
+1200.00
+
+1437
+
+US046
+
+USG of Penis
+
+---Select---()
+
+IH
+
+1200.00
+
+1438
+
+US047
+
+USG of Salivary Glands
+
+---Select---()
+
+IH
+
+1000.00
+
+1439
+
+US048
+
+USG of Tiffa
+
+---Select---()
+
+IH
+
+1500.00
+
+1440
+
+US049
+
+USG of Thigh
+
+---Select---()
+
+IH
+
+1000.00
+
+1441
+
+US050
+
+USG of Thyroid
+
+---Select---()
+
+IH
+
+1000.00
+
+1442
+
+US051
+
+USG of Parotid Swlogram
+
+---Select---()
+
+IH
+
+1000.00
+
+1443
+
+US052
+
+USG of Follicular Study 4th
+Visit
+
+---Select---()
+
+IH
+
+300.00
+
+1444
+
+US053
+
+USG of Leg High
+Resolution (HRUS)
+
+---Select---()
+
+IH
+
+700.00
+
+Page 85 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+ULTRASOUND
+SNo
+
+Test
+Code
+
+Name Of Test
+
+1445
+
+US054
+
+USG of Knee Joints
+
+---Select---()
+
+IH
+
+1200.00
+
+1446
+
+US055
+
+USG of TVS
+
+---Select---()
+
+IH
+
+900.00
+
+1447
+
+US056
+
+USG of Twin NT Scan
+
+---Select---()
+
+IH
+
+1800.00
+
+1448
+
+US057
+
+USG of TVS of Pelivis 3D &
+4D
+
+---Select---()
+
+IH
+
+2000.00
+
+1449
+
+US058
+
+USG of Follicular Study (Sin
+gle Visit)
+
+.()
+
+IH
+
+400.00
+
+1450
+
+US059
+
+USG of TVS for Follicular
+Study 5 Times
+
+.()
+
+IH
+
+2400.00
+
+Page 86 of 86
+
+Methodology
+
+Sample/Volume
+
+Temp
+
+Referral Lab
+Name
+
+Schedule
+
+Turn around
+time
+
+MRP
+
+
